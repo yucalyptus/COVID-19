@@ -160,7 +160,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-07-21,All,699453
 20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-07-21,All,454272
 20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-07-21,All,511334
-208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-07-21,All,6618452
+208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-07-21,All,6707916
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-07-21,All,60775
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-07-21,All,51949
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-07-21,All,40255
@@ -311,7 +311,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-07-21,All,173700
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-07-21,All,1777140
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-07-21,All,1287682
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-07-21,All,1741074
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-07-21,All,1741401
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-07-21,All,38570
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-07-21,All,2433395
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2021-07-21,All,115576
@@ -387,14 +387,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-07-21,All,11068919
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-07-21,All,3580870
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-07-21,All,9478770
-643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-07-21,All,55301794
+643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-07-21,All,55477049
 646,RW,RWA,646,,,,Rwanda,-1.9403,29.8739,Rwanda,2021-07-21,All,646909
 659,KN,KNA,659,,,,Saint Kitts and Nevis,17.357822,-62.782998,Saint Kitts and Nevis,2021-07-21,All,42837
 662,LC,LCA,662,,,,Saint Lucia,13.9094,-60.9789,Saint Lucia,2021-07-21,All,55052
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-07-21,All,25509
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-07-21,All,45085
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-07-21,All,41436
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-21,All,23203096
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-21,All,23225751
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-07-21,All,870251
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-07-21,All,5443932
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-07-21,All,139625
@@ -457,7 +457,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-07-21,All,454208
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-07-21,All,437968
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-07-21,All,2420468
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-21,All,63968967
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-07-21,All,63984286
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-07-21,All,337404458
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-07-21,All,3471361
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-07-21,All,687880
@@ -515,7 +515,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000054,US,USA,840,54,,West Virginia,US,38.4912,-80.9545,"West Virginia, US",2021-07-21,All,1570122
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2021-07-21,All,6069069
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2021-07-21,All,438253
-800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-07-21,All,1101431
+800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-07-21,All,1106762
 804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-07-21,All,4179185
 80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",2021-07-21,All,136820
 80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",2021-07-21,All,111892
