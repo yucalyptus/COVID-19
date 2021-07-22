@@ -92,7 +92,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2021-07-22,All,1025855
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-07-22,All,777664
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-07-22,All,134505
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-07-22,All,1940761
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-07-22,All,1952099
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-07-22,All,3500000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-07-22,All,10398348
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-07-22,All,313881
@@ -301,60 +301,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2021-07-22,All,73970888
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2021-07-22,All,4656897
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2021-07-22,All,7819581
-404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-07-22,All,1517951
-404001,KE,KEN,404,,,Baringo,Kenya,0.8555,36.0893,"Baringo, Kenya",2021-07-22,All,11383
-404002,KE,KEN,404,,,Bomet,Kenya,-0.8015,35.3027,"Bomet, Kenya",2021-07-22,All,11704
-404003,KE,KEN,404,,,Bungoma,Kenya,0.5695,34.5584,"Bungoma, Kenya",2021-07-22,All,20275
-404004,KE,KEN,404,,,Busia,Kenya,0.4608,34.1115,"Busia, Kenya",2021-07-22,All,13412
-404005,KE,KEN,404,,,Elgeyo-Marakwet,Kenya,1.0498,35.4782,"Elgeyo-Marakwet, Kenya",2021-07-22,All,10808
-404006,KE,KEN,404,,,Embu,Kenya,-0.5388,37.4596,"Embu, Kenya",2021-07-22,All,25964
-404007,KE,KEN,404,,,Garissa,Kenya,-0.4532,39.6461,"Garissa, Kenya",2021-07-22,All,3514
-404008,KE,KEN,404,,,Homa Bay,Kenya,-0.535,34.4531,"Homa Bay, Kenya",2021-07-22,All,19601
-404009,KE,KEN,404,,,Isiolo,Kenya,0.3556,37.5833,"Isiolo, Kenya",2021-07-22,All,3374
-404010,KE,KEN,404,,,Kajiado,Kenya,-2.0981,36.782,"Kajiado, Kenya",2021-07-22,All,35243
-404011,KE,KEN,404,,,Kakamega,Kenya,0.2827,34.7519,"Kakamega, Kenya",2021-07-22,All,36697
-404012,KE,KEN,404,,,Kericho,Kenya,-0.3689,35.2863,"Kericho, Kenya",2021-07-22,All,19203
-404013,KE,KEN,404,,,Kiambu,Kenya,-1.1748,36.8304,"Kiambu, Kenya",2021-07-22,All,76103
-404014,KE,KEN,404,,,Kilifi,Kenya,-3.5107,39.9093,"Kilifi, Kenya",2021-07-22,All,11406
-404015,KE,KEN,404,,,Kirinyaga,Kenya,-0.6591,37.3827,"Kirinyaga, Kenya",2021-07-22,All,21924
-404016,KE,KEN,404,,,Kisii,Kenya,-0.6773,34.7796,"Kisii, Kenya",2021-07-22,All,17176
-404017,KE,KEN,404,,,Kisumu,Kenya,-0.0917,34.768,"Kisumu, Kenya",2021-07-22,All,45899
-404018,KE,KEN,404,,,Kitui,Kenya,-1.3751,37.9952,"Kitui, Kenya",2021-07-22,All,19397
-404019,KE,KEN,404,,,Kwale,Kenya,-4.1816,39.4606,"Kwale, Kenya",2021-07-22,All,6261
-404020,KE,KEN,404,,,Laikipia,Kenya,0.3606,36.782,"Laikipia, Kenya",2021-07-22,All,26283
-404021,KE,KEN,404,,,Lamu,Kenya,-2.2696,40.9006,"Lamu, Kenya",2021-07-22,All,1141
-404022,KE,KEN,404,,,Machakos,Kenya,-1.5177,37.2634,"Machakos, Kenya",2021-07-22,All,29072
-404023,KE,KEN,404,,,Makueni,Kenya,-2.2559,37.8937,"Makueni, Kenya",2021-07-22,All,10449
-404024,KE,KEN,404,,,Mandera,Kenya,3.9356,41.8551,"Mandera, Kenya",2021-07-22,All,3846
-404025,KE,KEN,404,,,Marsabit,Kenya,2.3355,37.9943,"Marsabit, Kenya",2021-07-22,All,1451
-404026,KE,KEN,404,,,Meru,Kenya,0.0515,37.6456,"Meru, Kenya",2021-07-22,All,35262
-404027,KE,KEN,404,,,Migori,Kenya,-1.0707,34.4753,"Migori, Kenya",2021-07-22,All,14725
-404028,KE,KEN,404,,,Mombasa,Kenya,-3.9768,39.7137,"Mombasa, Kenya",2021-07-22,All,45829
-404029,KE,KEN,404,,,Murang'a,Kenya,-0.7839,37.04,"Murang'a, Kenya",2021-07-22,All,35120
-404030,KE,KEN,404,,,Nairobi,Kenya,-1.2921,36.8219,"Nairobi, Kenya",2021-07-22,All,489578
-404031,KE,KEN,404,,,Nakuru,Kenya,-0.3031,36.08,"Nakuru, Kenya",2021-07-22,All,100942
-404032,KE,KEN,404,,,Nandi,Kenya,0.1836,35.1269,"Nandi, Kenya",2021-07-22,All,22660
-404033,KE,KEN,404,,,Narok,Kenya,-1.0875,35.8771,"Narok, Kenya",2021-07-22,All,11473
-404034,KE,KEN,404,,,Nyamira,Kenya,-0.5669,34.9341,"Nyamira, Kenya",2021-07-22,All,14523
-404035,KE,KEN,404,,,Nyandarua,Kenya,-0.1804,36.523,"Nyandarua, Kenya",2021-07-22,All,31217
-404036,KE,KEN,404,,,Nyeri,Kenya,-0.4371,36.958,"Nyeri, Kenya",2021-07-22,All,59971
-404037,KE,KEN,404,,,Samburu,Kenya,1.2155,36.9541,"Samburu, Kenya",2021-07-22,All,5484
-404038,KE,KEN,404,,,Siaya,Kenya,0.0626,34.2878,"Siaya, Kenya",2021-07-22,All,17053
-404039,KE,KEN,404,,,Taita–Taveta,Kenya,-3.3161,38.485,"Taita–Taveta, Kenya",2021-07-22,All,9607
-404040,KE,KEN,404,,,Tana River,Kenya,-1.6518,39.6518,"Tana River, Kenya",2021-07-22,All,1434
-404041,KE,KEN,404,,,Tharaka-Nithi,Kenya,-0.2965,37.7238,"Tharaka-Nithi, Kenya",2021-07-22,All,11111
-404042,KE,KEN,404,,,Trans-Nzoia,Kenya,1.0567,34.9507,"Trans-Nzoia, Kenya",2021-07-22,All,26978
-404043,KE,KEN,404,,,Turkana,Kenya,3.3122,35.5658,"Turkana, Kenya",2021-07-22,All,6375
-404044,KE,KEN,404,,,Uasin Gishu,Kenya,0.5528,35.3027,"Uasin Gishu, Kenya",2021-07-22,All,69941
-404045,KE,KEN,404,,,Vihiga,Kenya,0.0768,34.7078,"Vihiga, Kenya",2021-07-22,All,18587
-404046,KE,KEN,404,,,Wajir,Kenya,1.7488,40.0586,"Wajir, Kenya",2021-07-22,All,3675
-404047,KE,KEN,404,,,West Pokot,Kenya,1.621,35.3905,"West Pokot, Kenya",2021-07-22,All,4820
+404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-07-22,All,1635441
 410,KR,KOR,410,,,,"Korea, South",35.907757000000004,127.766922,"Korea, South",2021-07-22,All,23127731
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,2021-07-22,All,243428
 414,KW,KWT,414,,,,Kuwait,29.311659999999996,47.481766,Kuwait,2021-07-22,All,2375455
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-07-22,All,173700
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-07-22,All,1777140
-428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-07-22,All,1295236
+428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-07-22,All,1301788
 422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-07-22,All,1760980
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-07-22,All,38570
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-07-22,All,2446247
@@ -438,7 +391,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-07-22,All,25509
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-07-22,All,45085
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-07-22,All,41436
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-22,All,23715025
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-07-22,All,23718122
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-07-22,All,870251
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-07-22,All,5443932
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-07-22,All,139625
@@ -560,32 +513,32 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2021-07-22,All,6083537
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2021-07-22,All,440898
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-07-22,All,1106762
-804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-07-22,All,4399366
-80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",2021-07-22,All,144727
-80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",2021-07-22,All,120017
-80403,UA,UKR,804,,,Chernivtsi Oblast,Ukraine,48.2917,25.9352,"Chernivtsi Oblast, Ukraine",2021-07-22,All,73427
-80405,UA,UKR,804,,,Dnipropetrovsk Oblast,Ukraine,48.4647,35.0462,"Dnipropetrovsk Oblast, Ukraine",2021-07-22,All,360911
-80406,UA,UKR,804,,,Donetsk Oblast,Ukraine,48.0159,37.8028,"Donetsk Oblast, Ukraine",2021-07-22,All,172603
-80407,UA,UKR,804,,,Ivano-Frankivsk Oblast,Ukraine,48.9226,24.7111,"Ivano-Frankivsk Oblast, Ukraine",2021-07-22,All,103577
-80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2021-07-22,All,262888
-80409,UA,UKR,804,,,Kherson Oblast,Ukraine,46.6354,32.6169,"Kherson Oblast, Ukraine",2021-07-22,All,105394
-80410,UA,UKR,804,,,Khmelnytskyi Oblast,Ukraine,49.423,26.9871,"Khmelnytskyi Oblast, Ukraine",2021-07-22,All,136654
-80411,UA,UKR,804,,,Kiev,Ukraine,50.4501,30.5234,"Kiev, Ukraine",2021-07-22,All,652439
-80412,UA,UKR,804,,,Kiev Oblast,Ukraine,50.053000000000004,30.7667,"Kiev Oblast, Ukraine",2021-07-22,All,288776
-80413,UA,UKR,804,,,Kirovohrad Oblast,Ukraine,48.5079,32.2623,"Kirovohrad Oblast, Ukraine",2021-07-22,All,88698
-80414,UA,UKR,804,,,Luhansk Oblast,Ukraine,48.574,39.3078,"Luhansk Oblast, Ukraine",2021-07-22,All,77032
-80415,UA,UKR,804,,,Lviv Oblast,Ukraine,49.8397,24.0297,"Lviv Oblast, Ukraine",2021-07-22,All,279165
-80416,UA,UKR,804,,,Mykolaiv Oblast,Ukraine,46.975,31.9946,"Mykolaiv Oblast, Ukraine",2021-07-22,All,138754
-80417,UA,UKR,804,,,Odessa Oblast,Ukraine,46.4846,30.7326,"Odessa Oblast, Ukraine",2021-07-22,All,192404
-80418,UA,UKR,804,,,Poltava Oblast,Ukraine,49.5883,34.5514,"Poltava Oblast, Ukraine",2021-07-22,All,221220
-80419,UA,UKR,804,,,Rivne Oblast,Ukraine,50.6199,26.2516,"Rivne Oblast, Ukraine",2021-07-22,All,106784
-80421,UA,UKR,804,,,Sumy Oblast,Ukraine,50.9077,34.7981,"Sumy Oblast, Ukraine",2021-07-22,All,118070
-80422,UA,UKR,804,,,Ternopil Oblast,Ukraine,49.5535,25.5948,"Ternopil Oblast, Ukraine",2021-07-22,All,100513
-80423,UA,UKR,804,,,Vinnytsia Oblast,Ukraine,49.2331,28.4682,"Vinnytsia Oblast, Ukraine",2021-07-22,All,190206
-80424,UA,UKR,804,,,Volyn Oblast,Ukraine,50.7472,25.3254,"Volyn Oblast, Ukraine",2021-07-22,All,86524
-80425,UA,UKR,804,,,Zakarpattia Oblast,Ukraine,48.6208,22.2879,"Zakarpattia Oblast, Ukraine",2021-07-22,All,100402
-80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2021-07-22,All,140631
-80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2021-07-22,All,137550
+804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-07-22,All,4538631
+80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",2021-07-22,All,150885
+80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",2021-07-22,All,125061
+80403,UA,UKR,804,,,Chernivtsi Oblast,Ukraine,48.2917,25.9352,"Chernivtsi Oblast, Ukraine",2021-07-22,All,76120
+80405,UA,UKR,804,,,Dnipropetrovsk Oblast,Ukraine,48.4647,35.0462,"Dnipropetrovsk Oblast, Ukraine",2021-07-22,All,371464
+80406,UA,UKR,804,,,Donetsk Oblast,Ukraine,48.0159,37.8028,"Donetsk Oblast, Ukraine",2021-07-22,All,177322
+80407,UA,UKR,804,,,Ivano-Frankivsk Oblast,Ukraine,48.9226,24.7111,"Ivano-Frankivsk Oblast, Ukraine",2021-07-22,All,105612
+80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2021-07-22,All,269939
+80409,UA,UKR,804,,,Kherson Oblast,Ukraine,46.6354,32.6169,"Kherson Oblast, Ukraine",2021-07-22,All,108295
+80410,UA,UKR,804,,,Khmelnytskyi Oblast,Ukraine,49.423,26.9871,"Khmelnytskyi Oblast, Ukraine",2021-07-22,All,141216
+80411,UA,UKR,804,,,Kiev,Ukraine,50.4501,30.5234,"Kiev, Ukraine",2021-07-22,All,675104
+80412,UA,UKR,804,,,Kiev Oblast,Ukraine,50.053000000000004,30.7667,"Kiev Oblast, Ukraine",2021-07-22,All,297264
+80413,UA,UKR,804,,,Kirovohrad Oblast,Ukraine,48.5079,32.2623,"Kirovohrad Oblast, Ukraine",2021-07-22,All,91910
+80414,UA,UKR,804,,,Luhansk Oblast,Ukraine,48.574,39.3078,"Luhansk Oblast, Ukraine",2021-07-22,All,78598
+80415,UA,UKR,804,,,Lviv Oblast,Ukraine,49.8397,24.0297,"Lviv Oblast, Ukraine",2021-07-22,All,287177
+80416,UA,UKR,804,,,Mykolaiv Oblast,Ukraine,46.975,31.9946,"Mykolaiv Oblast, Ukraine",2021-07-22,All,143908
+80417,UA,UKR,804,,,Odessa Oblast,Ukraine,46.4846,30.7326,"Odessa Oblast, Ukraine",2021-07-22,All,199537
+80418,UA,UKR,804,,,Poltava Oblast,Ukraine,49.5883,34.5514,"Poltava Oblast, Ukraine",2021-07-22,All,228996
+80419,UA,UKR,804,,,Rivne Oblast,Ukraine,50.6199,26.2516,"Rivne Oblast, Ukraine",2021-07-22,All,109319
+80421,UA,UKR,804,,,Sumy Oblast,Ukraine,50.9077,34.7981,"Sumy Oblast, Ukraine",2021-07-22,All,123061
+80422,UA,UKR,804,,,Ternopil Oblast,Ukraine,49.5535,25.5948,"Ternopil Oblast, Ukraine",2021-07-22,All,102416
+80423,UA,UKR,804,,,Vinnytsia Oblast,Ukraine,49.2331,28.4682,"Vinnytsia Oblast, Ukraine",2021-07-22,All,196306
+80424,UA,UKR,804,,,Volyn Oblast,Ukraine,50.7472,25.3254,"Volyn Oblast, Ukraine",2021-07-22,All,88877
+80425,UA,UKR,804,,,Zakarpattia Oblast,Ukraine,48.6208,22.2879,"Zakarpattia Oblast, Ukraine",2021-07-22,All,103874
+80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2021-07-22,All,143849
+80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2021-07-22,All,142521
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-07-22,All,16444844
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-07-22,All,83721277
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-07-22,All,17807
