@@ -20353,3 +20353,6 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/27/2021,time_series_covid19_confirmed_US.csv,"Vega Baja, Puerto Rico, US",07/26/2021,3019,3020,"Correct Puerto Rico, US confirmed data"
 07/27/2021,time_series_covid19_confirmed_US.csv,"Yauco, Puerto Rico, US",07/26/2021,855,863,"Correct Puerto Rico, US confirmed data"
 07/27/2021,time_series_covid19_deaths_US.csv,"Unassigned, Puerto Rico, US",07/26/2021,2568,2569,"Correct Puerto Rico, US deaths data"
+07/27/2021,time_series_covid19_confirmed_global.csv,Oman,07/25/2021,289042,293954,Correct Oman confirmed data
+07/27/2021,time_series_covid19_deaths_global.csv,Oman,07/25/2021,3498,3753,Correct Oman deaths data
+07/27/2021,time_series_covid19_recovered_global.csv,Oman,07/25/2021,263752,275760,Correct Oman recovered data
