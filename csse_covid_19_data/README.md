@@ -441,7 +441,7 @@ United States
 * Utah: Providing data Monday-Friday.
 * Vermont: Providing data Monday-Friday.
 * Virginia: Providing data Monday-Friday.
-* Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
+* Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.
 * West Virginia: Providing data Monday-Friday.
 * Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data Monday-Friday.
