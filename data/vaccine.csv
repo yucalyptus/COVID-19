@@ -92,7 +92,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2021-08-15,All,1447869
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-08-15,All,983012
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-08-15,All,201441
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-08-15,All,2152638
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-08-15,All,2154824
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-08-15,All,3500000
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-08-15,All,15372439
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-08-15,All,368280
@@ -441,7 +441,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-08-15,All,28063
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-08-15,All,46057
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-08-15,All,43978
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-08-15,All,31958688
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-08-15,All,31962101
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-08-15,All,1360095
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-08-15,All,5626081
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-08-15,All,141435
@@ -504,8 +504,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-08-15,All,474776
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-08-15,All,741984
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-08-15,All,4075678
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-08-15,All,83637249
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-08-15,All,355300435
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-08-15,All,83637364
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-08-15,All,355300440
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-08-15,All,3792348
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-08-15,All,709232
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-08-15,All,53819
@@ -543,7 +543,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-08-15,All,23595998
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-08-15,All,10043074
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.78399999999999,"North Dakota, US",2021-08-15,All,678556
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-08-15,All,64923
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-08-15,All,64928
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2021-08-15,All,11398339
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2021-08-15,All,3615884
 84000041,US,USA,840,41,,Oregon,US,44.571999999999996,-122.0709,"Oregon, US",2021-08-15,All,4830886
