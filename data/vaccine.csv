@@ -341,7 +341,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-08-15,All,848085
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-08-15,All,3118472
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-08-15,All,1418215
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-08-15,All,2204120
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-08-15,All,2204123
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-08-15,All,40614
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-08-15,All,2777997
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2021-08-15,All,131674
@@ -441,29 +441,29 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-08-15,All,28063
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-08-15,All,46057
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-08-15,All,43978
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-08-15,All,31875373
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-08-15,All,31898325
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-08-15,All,1360095
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-08-15,All,5626081
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-08-15,All,141435
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2021-08-15,All,225380
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2021-08-15,All,8547113
 703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2021-08-15,All,4447031
-705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2021-08-15,All,1805223
-70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2021-08-15,All,184825
+705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2021-08-15,All,1805296
+70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2021-08-15,All,184833
 70502,SI,SVN,705,,,Goriska,Slovenia,45.9402,13.6202,"Goriska, Slovenia",2021-08-15,All,108325
-70503,SI,SVN,705,,,Jugovzhodna Slovenija,Slovenia,46.0569,14.5057,"Jugovzhodna Slovenija, Slovenia",2021-08-15,All,121679
-70504,SI,SVN,705,,,Koroska,Slovenia,46.7222,14.1806,"Koroska, Slovenia",2021-08-15,All,65406
-70505,SI,SVN,705,,,Obalno-kraska,Slovenia,45.5451,13.8847,"Obalno-kraska, Slovenia",2021-08-15,All,94800
-70506,SI,SVN,705,,,Osrednjeslovenska,Slovenia,46.0552,14.5149,"Osrednjeslovenska, Slovenia",2021-08-15,All,492932
-70507,SI,SVN,705,,,Podravska,Slovenia,46.7725,12.7429,"Podravska, Slovenia",2021-08-15,All,258517
+70503,SI,SVN,705,,,Jugovzhodna Slovenija,Slovenia,46.0569,14.5057,"Jugovzhodna Slovenija, Slovenia",2021-08-15,All,121688
+70504,SI,SVN,705,,,Koroska,Slovenia,46.7222,14.1806,"Koroska, Slovenia",2021-08-15,All,65407
+70505,SI,SVN,705,,,Obalno-kraska,Slovenia,45.5451,13.8847,"Obalno-kraska, Slovenia",2021-08-15,All,94828
+70506,SI,SVN,705,,,Osrednjeslovenska,Slovenia,46.0552,14.5149,"Osrednjeslovenska, Slovenia",2021-08-15,All,492934
+70507,SI,SVN,705,,,Podravska,Slovenia,46.7725,12.7429,"Podravska, Slovenia",2021-08-15,All,258532
 70508,SI,SVN,705,,,Pomurska,Slovenia,45.7164,10.3404,"Pomurska, Slovenia",2021-08-15,All,99263
 70509,SI,SVN,705,,,Posavska,Slovenia,45.2638,17.3265,"Posavska, Slovenia",2021-08-15,All,61193
-70510,SI,SVN,705,,,Primorsko-notranjska,Slovenia,45.6879,14.3063,"Primorsko-notranjska, Slovenia",2021-08-15,All,48085
-70511,SI,SVN,705,,,Savinjska,Slovenia,46.2309,15.2604,"Savinjska, Slovenia",2021-08-15,All,216383
+70510,SI,SVN,705,,,Primorsko-notranjska,Slovenia,45.6879,14.3063,"Primorsko-notranjska, Slovenia",2021-08-15,All,48087
+70511,SI,SVN,705,,,Savinjska,Slovenia,46.2309,15.2604,"Savinjska, Slovenia",2021-08-15,All,216391
 70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2021-08-15,All,0
 70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2021-08-15,All,53815
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-08-15,All,56621
-710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-08-15,All,9373343
+710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-08-15,All,9387129
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2021-08-15,All,56989
 724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-08-15,All,60919867
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-08-15,All,16377810
@@ -504,7 +504,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-08-15,All,474776
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-08-15,All,741984
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-08-15,All,4075678
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-08-15,All,83555391
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-08-15,All,83579659
 840,US,USA,840,,,,US,40.0,-100.0,US,2021-08-15,All,354695612
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-08-15,All,3769434
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-08-15,All,709158
@@ -603,7 +603,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-08-15,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-08-15,All,7504743
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-08-15,All,4454567
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-08-15,All,5016447
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-08-15,All,5016459
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-08-15,All,11382468
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-08-15,All,4000000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-08-15,All,13772920
