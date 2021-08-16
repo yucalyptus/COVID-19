@@ -385,7 +385,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,2021-08-16,All,58845
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,2021-08-16,All,1143669
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,2021-08-16,All,44060
-496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,2021-08-16,All,4235613
+496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,2021-08-16,All,4236033
 499,ME,MNE,499,,,,Montenegro,42.708678000000006,19.37439,Montenegro,2021-08-16,All,360080
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,2021-08-16,All,27630059
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,2021-08-16,All,1386326
@@ -441,7 +441,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-08-16,All,28063
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-08-16,All,46057
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-08-16,All,43978
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-08-16,All,31968777
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-08-16,All,31969739
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-08-16,All,1360095
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-08-16,All,5626081
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-08-16,All,141435
@@ -504,8 +504,8 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 768,TG,TGO,768,,,,Togo,8.6195,0.8248,Togo,2021-08-16,All,474776
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-08-16,All,741984
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-08-16,All,4075678
-792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-08-16,All,83637388
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-08-16,All,355309990
+792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-08-16,All,83637392
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-08-16,All,355310018
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-08-16,All,3792348
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-08-16,All,709232
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-08-16,All,53819
@@ -543,7 +543,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-08-16,All,23595998
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-08-16,All,10043074
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.78399999999999,"North Dakota, US",2021-08-16,All,678556
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-08-16,All,65033
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-08-16,All,65061
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2021-08-16,All,11398339
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2021-08-16,All,3615884
 84000041,US,USA,840,41,,Oregon,US,44.571999999999996,-122.0709,"Oregon, US",2021-08-16,All,4830886
@@ -603,7 +603,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-08-16,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-08-16,All,7504743
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-08-16,All,4454567
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-08-16,All,5016460
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-08-16,All,5016461
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-08-16,All,11382468
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-08-16,All,4000000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-08-16,All,13772920
