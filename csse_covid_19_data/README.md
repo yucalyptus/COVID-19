@@ -450,7 +450,7 @@ United States
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday. As of August 1, only updating Monday-Friday.
 * West Virginia: Providing data Monday-Friday.
 * Wisconsin: Providing data Monday-Friday.
-* Wyoming: Providing data Monday-Friday.
+* Wyoming: Providing data daily. ~~Providing data Monday-Friday.
 
 
 
