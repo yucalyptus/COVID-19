@@ -154,22 +154,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 384,CI,CIV,384,,,,Cote d'Ivoire,7.54,-5.5471,Cote d'Ivoire,2021-09-03,All,1370123
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2021-09-03,All,3264851
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2021-09-03,All,1098334
-203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-09-03,All,11494922
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2021-09-03,All,696532
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2021-09-03,All,1293885
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2021-09-03,All,306246
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2021-09-03,All,599449
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2021-09-03,All,451237
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2021-09-03,All,1177463
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2021-09-03,All,610635
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2021-09-03,All,504804
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2021-09-03,All,625364
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2021-09-03,All,2089162
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2021-09-03,All,1202827
+203,CZ,CZE,203,,,,Czechia,49.8175,15.472999999999999,Czechia,2021-09-03,All,11514332
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2021-09-03,All,697989
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2021-09-03,All,1295245
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2021-09-03,All,306447
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2021-09-03,All,600438
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2021-09-03,All,451893
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2021-09-03,All,1179606
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2021-09-03,All,611581
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2021-09-03,All,505816
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2021-09-03,All,626246
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2021-09-03,All,2093449
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2021-09-03,All,1204833
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2021-09-03,All,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-09-03,All,814663
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-09-03,All,534263
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-09-03,All,588392
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-09-03,All,815994
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.472999999999999,"Vysocina, Czechia",2021-09-03,All,535620
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-09-03,All,589175
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-09-03,All,8586828
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-09-03,All,71315
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-09-03,All,72589
@@ -340,7 +340,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-09-03,All,1146634
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-09-03,All,3044669
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-09-03,All,1519489
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-03,All,2488522
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-03,All,2490698
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-03,All,51898
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-03,All,68374
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-03,All,399140
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-03,All,151584
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-03,All,1138623
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-03,All,168529
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-03,All,260036
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-03,All,227916
+422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-09-03,All,24598
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-09-03,All,43139
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-09-03,All,3002697
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2021-09-03,All,142501
