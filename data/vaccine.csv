@@ -41,7 +41,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2021-09-07,All,0
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2021-09-07,All,5440138
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2021-09-07,All,1907622
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-09-07,All,10518960
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-09-07,All,10526954
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-09-07,All,7235274
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-09-07,All,146738
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-09-07,All,2508943
@@ -179,23 +179,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-09-07,All,10418988
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-09-07,All,6625116
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-09-07,All,360446
-233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2021-09-07,All,1288052
-23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2021-09-07,All,564933
-23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2021-09-07,All,11910
-23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2021-09-07,All,95567
-23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2021-09-07,All,31170
-23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2021-09-07,All,30650
-23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2021-09-07,All,21376
-23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328,"Laane-Viru, Estonia",2021-09-07,All,59201
-23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.402,"Parnu, Estonia",2021-09-07,All,80633
-23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2021-09-07,All,24815
-23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2021-09-07,All,33242
-23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2021-09-07,All,34625
-23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2021-09-07,All,172837
-23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2021-09-07,All,21188
-23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2021-09-07,All,25268
-23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2021-09-07,All,48501
-23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2021-09-07,All,32136
+233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2021-09-07,All,1291751
+23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2021-09-07,All,566524
+23302,EE,EST,233,,,Hiiu,Estonia,58.924,22.5919,"Hiiu, Estonia",2021-09-07,All,11932
+23303,EE,EST,233,,,Ida-Viru,Estonia,59.2593,27.4137,"Ida-Viru, Estonia",2021-09-07,All,96012
+23304,EE,EST,233,,,Jarva,Estonia,58.8867,25.5001,"Jarva, Estonia",2021-09-07,All,31225
+23305,EE,EST,233,,,Jogeva,Estonia,58.7506,26.3605,"Jogeva, Estonia",2021-09-07,All,30758
+23306,EE,EST,233,,,Laane,Estonia,58.9723,23.8741,"Laane, Estonia",2021-09-07,All,21439
+23307,EE,EST,233,,,Laane-Viru,Estonia,59.3019,26.328,"Laane-Viru, Estonia",2021-09-07,All,59404
+23308,EE,EST,233,,,Parnu,Estonia,58.5262,24.402,"Parnu, Estonia",2021-09-07,All,80667
+23309,EE,EST,233,,,Polva,Estonia,58.1161,27.2066,"Polva, Estonia",2021-09-07,All,24909
+23310,EE,EST,233,,,Rapla,Estonia,58.8493,24.7347,"Rapla, Estonia",2021-09-07,All,33279
+23311,EE,EST,233,,,Saare,Estonia,58.485,22.6136,"Saare, Estonia",2021-09-07,All,34727
+23312,EE,EST,233,,,Tartu,Estonia,58.4057,26.8016,"Tartu, Estonia",2021-09-07,All,173333
+23316,EE,EST,233,,,Unknown,Estonia,,,"Unknown, Estonia",2021-09-07,All,21347
+23313,EE,EST,233,,,Valga,Estonia,57.9103,26.1602,"Valga, Estonia",2021-09-07,All,25467
+23314,EE,EST,233,,,Viljandi,Estonia,58.2822,25.5752,"Viljandi, Estonia",2021-09-07,All,48519
+23315,EE,EST,233,,,Voru,Estonia,57.7377,27.1399,"Voru, Estonia",2021-09-07,All,32209
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2021-09-07,All,239519
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2021-09-07,All,2575687
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2021-09-07,All,821657
@@ -204,7 +204,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-09-07,All,146464
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-09-07,All,351281
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-09-07,All,1326033
-276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-09-07,All,102839034
+276,DE,DEU,276,,,,Germany,51.165690999999995,10.451526,Germany,2021-09-07,All,102974022
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-09-07,All,1271393
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-09-07,All,11552558
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-09-07,All,45460
@@ -340,16 +340,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-09-07,All,1188137
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-09-07,All,4382959
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-09-07,All,1535621
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-07,All,2535143
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-07,All,52999
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-07,All,69814
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-07,All,405636
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-07,All,154307
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-07,All,1156604
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-07,All,172711
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-07,All,265165
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-07,All,233052
-422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-09-07,All,24855
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-07,All,2537856
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-07,All,53077
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-07,All,69943
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-07,All,405994
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-07,All,154463
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-07,All,1157718
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-07,All,172872
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-07,All,265513
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-07,All,233386
+422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-09-07,All,24890
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-09-07,All,43139
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-09-07,All,3041715
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2021-09-07,All,144623
@@ -389,7 +389,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 584,MH,MHL,584,,,,Marshall Islands,7.1315,171.1845,Marshall Islands,2021-09-07,All,38803
 478,MR,MRT,478,,,,Mauritania,21.0079,-10.9408,Mauritania,2021-09-07,All,565434
 480,MU,MUS,480,,,,Mauritius,-20.348404000000002,57.552152,Mauritius,2021-09-07,All,1564974
-484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,2021-09-07,All,87224714
+484,MX,MEX,484,,,,Mexico,23.6345,-102.5528,Mexico,2021-09-07,All,87014220
 583,FM,FSM,583,,,,Micronesia,7.4256,150.5508,Micronesia,2021-09-07,All,66719
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,2021-09-07,All,1300309
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,2021-09-07,All,48691
@@ -449,7 +449,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-09-07,All,30958
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-09-07,All,46556
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-09-07,All,50886
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-07,All,38292297
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-07,All,38304888
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-09-07,All,1732362
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-09-07,All,5957327
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-09-07,All,143490
