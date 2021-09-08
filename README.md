@@ -111,7 +111,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - North Carolina
     - [City of Greenville GIS](https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747)
   - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
-  - Northern Mariana Islands: [CNMI Department of Public Health](https://cnmichcc.maps.arcgis.com/apps/opsdashboard/index.html#/4061b674fc964efe84f7774b7979d2b5)
+  - Northern Mariana Islands: [Northern Mariana Islands Commonwealth Dept of Public Health](https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a)
   - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
   - Oklahoma: [Department of Health](https://looker-dashboards.ok.gov/embed/dashboards/44)
   - Oregon: [Health Authority](https://govstatus.egov.com/OR-OHA-COVID-19)
