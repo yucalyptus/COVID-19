@@ -151,7 +151,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [Tarrant County](https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html)
     - [Travis County](https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information)
     - [Williamson County](http://www.wcchd.org/COVID-19/dashboard.php)
-  - Utah: [Department of Health](https://coronavirus-dashboard.utah.gov/#overview)
+  - Utah: [Department of Health](https://coronavirus.utah.gov/case-counts/#overview)
   - Vermont: [Department of Health](https://www.healthvermont.gov/response/coronavirus-covid-19/current-activity-vermont)
   - Virgin Islands: [Department of Health](https://www.covid19usvi.com/) and [COVID-19 Report](https://www.covid19usvi.com/covid19-report)
   - Virginia: [Department of Health](https://www.vdh.virginia.gov/coronavirus/)
