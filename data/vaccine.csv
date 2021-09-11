@@ -45,15 +45,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-09-11,All,7493034
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-09-11,All,161613
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-09-11,All,2517671
-50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-09-11,All,32751434
-5001,BD,BGD,50,,,Barisal,Bangladesh,23.685,90.3563,"Barisal, Bangladesh",2021-09-11,All,1955431
-5002,BD,BGD,50,,,Chittagong,Bangladesh,23.685,90.3563,"Chittagong, Bangladesh",2021-09-11,All,6202846
-5003,BD,BGD,50,,,Dhaka,Bangladesh,23.685,90.3563,"Dhaka, Bangladesh",2021-09-11,All,9931449
-5004,BD,BGD,50,,,Khulna,Bangladesh,23.685,90.3563,"Khulna, Bangladesh",2021-09-11,All,3800647
-5005,BD,BGD,50,,,Mymensingh,Bangladesh,23.685,90.3563,"Mymensingh, Bangladesh",2021-09-11,All,1918915
-5006,BD,BGD,50,,,Rajshahi,Bangladesh,23.685,90.3563,"Rajshahi, Bangladesh",2021-09-11,All,3706134
-5007,BD,BGD,50,,,Rangpur,Bangladesh,23.685,90.3563,"Rangpur, Bangladesh",2021-09-11,All,3387548
-5008,BD,BGD,50,,,Sylhet,Bangladesh,23.685,90.3563,"Sylhet, Bangladesh",2021-09-11,All,1848464
+50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-09-11,All,33713954
+5001,BD,BGD,50,,,Barisal,Bangladesh,23.685,90.3563,"Barisal, Bangladesh",2021-09-11,All,2011922
+5002,BD,BGD,50,,,Chittagong,Bangladesh,23.685,90.3563,"Chittagong, Bangladesh",2021-09-11,All,6345403
+5003,BD,BGD,50,,,Dhaka,Bangladesh,23.685,90.3563,"Dhaka, Bangladesh",2021-09-11,All,10266170
+5004,BD,BGD,50,,,Khulna,Bangladesh,23.685,90.3563,"Khulna, Bangladesh",2021-09-11,All,3880342
+5005,BD,BGD,50,,,Mymensingh,Bangladesh,23.685,90.3563,"Mymensingh, Bangladesh",2021-09-11,All,1976044
+5006,BD,BGD,50,,,Rajshahi,Bangladesh,23.685,90.3563,"Rajshahi, Bangladesh",2021-09-11,All,3800301
+5007,BD,BGD,50,,,Rangpur,Bangladesh,23.685,90.3563,"Rangpur, Bangladesh",2021-09-11,All,3519932
+5008,BD,BGD,50,,,Sylhet,Bangladesh,23.685,90.3563,"Sylhet, Bangladesh",2021-09-11,All,1913840
 5009,BD,BGD,50,,,Unknown,Bangladesh,23.685,90.3563,"Unknown, Bangladesh",2021-09-11,All,0
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2021-09-11,All,213075
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2021-09-11,All,3085256
@@ -290,28 +290,28 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2021-09-11,All,3754174
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2021-09-11,All,7005781
 376,IL,ISR,376,,,,Israel,31.046051000000002,34.851612,Israel,2021-09-11,All,14364617
-380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2021-09-11,All,80568881
-38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2021-09-11,All,1794124
-38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2021-09-11,All,750993
-38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2021-09-11,All,2347174
-38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2021-09-11,All,7456992
-38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.341720800000001,"Emilia-Romagna, Italy",2021-09-11,All,6108569
-38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2021-09-11,All,1575718
-38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2021-09-11,All,7992188
-38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2021-09-11,All,2071294
-38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2021-09-11,All,14281266
-38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2021-09-11,All,2009295
-38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2021-09-11,All,428935
-38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2021-09-11,All,633459
-38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2021-09-11,All,725036
-38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2021-09-11,All,5688425
-38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2021-09-11,All,5575826
-38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2021-09-11,All,2219155
-38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2021-09-11,All,5950419
-38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2021-09-11,All,5057851
-38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2021-09-11,All,1212913
-38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2021-09-11,All,160800
-38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2021-09-11,All,6528449
+380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2021-09-11,All,80676635
+38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2021-09-11,All,1795964
+38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2021-09-11,All,752472
+38018,IT,ITA,380,,,Calabria,Italy,38.90597598,16.59440194,"Calabria, Italy",2021-09-11,All,2350322
+38015,IT,ITA,380,,,Campania,Italy,40.83956555,14.25084984,"Campania, Italy",2021-09-11,All,7464817
+38008,IT,ITA,380,,,Emilia-Romagna,Italy,44.49436681,11.341720800000001,"Emilia-Romagna, Italy",2021-09-11,All,6117449
+38006,IT,ITA,380,,,Friuli Venezia Giulia,Italy,45.6494354,13.76813649,"Friuli Venezia Giulia, Italy",2021-09-11,All,1575853
+38012,IT,ITA,380,,,Lazio,Italy,41.89277044,12.48366722,"Lazio, Italy",2021-09-11,All,8000351
+38007,IT,ITA,380,,,Liguria,Italy,44.41149315,8.9326992,"Liguria, Italy",2021-09-11,All,2072385
+38003,IT,ITA,380,,,Lombardia,Italy,45.46679409,9.190347404,"Lombardia, Italy",2021-09-11,All,14300146
+38011,IT,ITA,380,,,Marche,Italy,43.61675973,13.5188753,"Marche, Italy",2021-09-11,All,2011983
+38014,IT,ITA,380,,,Molise,Italy,41.55774754,14.65916051,"Molise, Italy",2021-09-11,All,430092
+38041,IT,ITA,380,,,P.A. Bolzano,Italy,46.49933453,11.35662422,"P.A. Bolzano, Italy",2021-09-11,All,633774
+38042,IT,ITA,380,,,P.A. Trento,Italy,46.06893511,11.12123097,"P.A. Trento, Italy",2021-09-11,All,725324
+38001,IT,ITA,380,,,Piemonte,Italy,45.0732745,7.680687483,"Piemonte, Italy",2021-09-11,All,5699294
+38016,IT,ITA,380,,,Puglia,Italy,41.12559576,16.86736689,"Puglia, Italy",2021-09-11,All,5579130
+38020,IT,ITA,380,,,Sardegna,Italy,39.21531192,9.110616306,"Sardegna, Italy",2021-09-11,All,2223092
+38019,IT,ITA,380,,,Sicilia,Italy,38.11569725,13.362356699999998,"Sicilia, Italy",2021-09-11,All,5963095
+38009,IT,ITA,380,,,Toscana,Italy,43.76923077,11.25588885,"Toscana, Italy",2021-09-11,All,5067546
+38010,IT,ITA,380,,,Umbria,Italy,43.10675841,12.38824698,"Umbria, Italy",2021-09-11,All,1214868
+38002,IT,ITA,380,,,Valle d'Aosta,Italy,45.73750286,7.320149366,"Valle d'Aosta, Italy",2021-09-11,All,161136
+38005,IT,ITA,380,,,Veneto,Italy,45.43490485,12.33845213,"Veneto, Italy",2021-09-11,All,6537542
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2021-09-11,All,613962
 392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2021-09-11,All,141432726
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2021-09-11,All,6639608
@@ -340,15 +340,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-09-11,All,1255900
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-09-11,All,4402770
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-09-11,All,1553030
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-11,All,2612445
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-11,All,2612468
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-11,All,54784
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-11,All,72473
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-11,All,72475
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-11,All,417149
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-11,All,160184
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-11,All,160201
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-11,All,1190428
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-11,All,178003
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-11,All,273323
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-11,All,240759
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-11,All,273324
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-11,All,240762
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-09-11,All,25342
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-09-11,All,43295
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-09-11,All,3083114
@@ -611,7 +611,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-09-11,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-09-11,All,7907030
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-09-11,All,4562220
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-09-11,All,5918285
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-09-11,All,5918464
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-09-11,All,15978140
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-09-11,All,9342817
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-09-11,All,23577917
