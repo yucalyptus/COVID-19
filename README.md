@@ -263,8 +263,6 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
   - Macau:
     - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
-  - Mexico:
-    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
   - Malaysia
     - Ministry of Health: https://covid-19.moh.gov.my/
     - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
@@ -272,6 +270,10 @@ This list includes a complete list of all sources ever used in the data set, sin
     - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
+  - Mexico:
+    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
+  - Monaco:
+    - Gouvernement Princier Principaute de Monaco: https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites
   - Palau:
     - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
   - Paraguay:
@@ -299,6 +301,8 @@ This list includes a complete list of all sources ever used in the data set, sin
     - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
   - Slovakia: 
     - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/
+  - Slovenia:
+    - Sledilnik: https://covid-19.sledilnik.org/en/stats
   - South Africa:
     - South Africa Department of Health: https://sacoronavirus.co.za/
   - South Korea:
