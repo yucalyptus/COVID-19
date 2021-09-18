@@ -93,7 +93,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-09-18,All,1367488
 7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",2021-09-18,All,11020266
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-09-18,All,385602
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-09-18,All,2458928
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-09-18,All,2461969
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-09-18,All,8184418
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-09-18,All,21612643
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-09-18,All,444521
@@ -214,7 +214,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-09-18,All,4637151
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-09-18,All,9249943
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-09-18,All,547788
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-09-18,All,804097478
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-09-18,All,804104999
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-09-18,All,414952
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-09-18,All,37148042
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2021-09-18,All,1072333
@@ -248,7 +248,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-09-18,All,41534891
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-09-18,All,21663738
 35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-09-18,All,3641623
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-09-18,All,3490297
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-09-18,All,3497818
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-09-18,All,94151721
 35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-09-18,All,9921672
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-09-18,All,50612188
@@ -340,12 +340,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-09-18,All,1327177
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-09-18,All,4402770
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-09-18,All,1580207
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-18,All,2718028
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-18,All,2718030
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-18,All,57985
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-18,All,76345
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-18,All,432780
 422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-18,All,166053
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-18,All,1233154
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-18,All,1233156
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-18,All,185999
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-18,All,286743
 422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-18,All,252878
@@ -513,14 +513,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-09-18,All,1014945
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-09-18,All,7017171
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-09-18,All,104894094
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-09-18,All,383459148
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-09-18,All,383467616
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-09-18,All,4386893
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-09-18,All,765238
 16,AS,ASM,16,60,,American Samoa,US,-14.270999999999999,-170.132,"American Samoa, US",2021-09-18,All,58827
 84000004,US,USA,840,4,,Arizona,US,33.7298,-111.4312,"Arizona, US",2021-09-18,All,8058815
 84000005,US,USA,840,5,,Arkansas,US,34.9697,-92.3731,"Arkansas, US",2021-09-18,All,2946305
 84000006,US,USA,840,6,,California,US,36.1162,-119.6816,"California, US",2021-09-18,All,49538267
-84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",2021-09-18,All,7158241
+84000008,US,USA,840,8,,Colorado,US,39.0598,-105.3111,"Colorado, US",2021-09-18,All,7166709
 84000009,US,USA,840,9,,Connecticut,US,41.5978,-72.7554,"Connecticut, US",2021-09-18,All,4949318
 84000010,US,USA,840,10,,Delaware,US,39.3185,-75.5071,"Delaware, US",2021-09-18,All,1181909
 84000011,US,USA,840,11,,District of Columbia,US,38.8974,-77.0268,"District of Columbia, US",2021-09-18,All,1109911
