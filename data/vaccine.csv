@@ -199,7 +199,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 748,SZ,SWZ,748,,,,Eswatini,-26.5225,31.4659,Eswatini,2021-09-22,All,231078
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2021-09-22,All,3225168
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2021-09-22,All,975268
-246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2021-09-22,All,7377806
+246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2021-09-22,All,7410452
 250,FR,FRA,250,,,,France,46.2276,2.2137,France,2021-09-22,All,92262410
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2021-09-22,All,171339
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-09-22,All,201835
@@ -340,16 +340,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-09-22,All,1361717
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-09-22,All,4402770
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-09-22,All,1591970
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-22,All,2774412
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-22,All,59533
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-22,All,78318
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-22,All,441487
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-22,All,169826
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-22,All,1256072
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-22,All,190065
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-22,All,293326
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-22,All,259236
-422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-09-22,All,26549
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-22,All,2776974
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-22,All,59642
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-22,All,78367
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-22,All,441899
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-22,All,169973
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-22,All,1257172
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-22,All,190217
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-22,All,293612
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-22,All,259542
+422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-09-22,All,26550
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-09-22,All,45718
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-09-22,All,3153614
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2021-09-22,All,150096
@@ -449,7 +449,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-09-22,All,32626
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-09-22,All,47026
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-09-22,All,65542
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-22,All,41206732
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-22,All,41213529
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-09-22,All,1768064
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-09-22,All,6281265
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-09-22,All,148402
