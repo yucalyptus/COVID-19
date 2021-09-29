@@ -175,7 +175,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-09-29,All,77971
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-09-29,All,44624
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-09-29,All,11828826
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-09-29,All,20571335
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-09-29,All,20666054
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-09-29,All,15057720
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-09-29,All,7396969
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-09-29,All,387510
@@ -214,43 +214,43 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-09-29,All,5196072
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-09-29,All,9249943
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-09-29,All,551110
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-09-29,All,876559630
-35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-09-29,All,439808
-35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-09-29,All,40062229
-35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2021-09-29,All,1157180
-35604,IN,IND,356,,,Assam,India,26.357149,92.83044100000001,"Assam, India",2021-09-29,All,23799016
-35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2021-09-29,All,54071559
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-09-29,All,876573963
+35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-09-29,All,439854
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-09-29,All,40065824
+35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2021-09-29,All,1157268
+35604,IN,IND,356,,,Assam,India,26.357149,92.83044100000001,"Assam, India",2021-09-29,All,23799663
+35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2021-09-29,All,54073173
 35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2021-09-29,All,1338640
 35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2021-09-29,All,18021678
 35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2021-09-29,All,912127
 35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2021-09-29,All,17557752
 35610,IN,IND,356,,,Goa,India,15.359682000000001,74.057396,"Goa, India",2021-09-29,All,1902688
-35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2021-09-29,All,60354039
-35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2021-09-29,All,22555659
+35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2021-09-29,All,60354259
+35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2021-09-29,All,22555781
 35613,IN,IND,356,,,Himachal Pradesh,India,31.927213000000002,77.233081,"Himachal Pradesh, India",2021-09-29,All,8324220
 35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2021-09-29,All,11217860
-35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2021-09-29,All,17535578
-35616,IN,IND,356,,,Karnataka,India,14.705179999999999,76.166436,"Karnataka, India",2021-09-29,All,55144728
-35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2021-09-29,All,35372386
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2021-09-29,All,17536632
+35616,IN,IND,356,,,Karnataka,India,14.705179999999999,76.166436,"Karnataka, India",2021-09-29,All,55145707
+35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2021-09-29,All,35372474
 35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2021-09-29,All,339413
 35637,IN,IND,356,,,Lakshadweep,India,13.699997199999999,72.18333259999999,"Lakshadweep, India",2021-09-29,All,95897
-35619,IN,IND,356,,,Madhya Pradesh,India,23.541513000000002,78.289633,"Madhya Pradesh, India",2021-09-29,All,62640265
-35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2021-09-29,All,80109475
-35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2021-09-29,All,1689935
-35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2021-09-29,All,1528685
-35623,IN,IND,356,,,Mizoram,India,23.309381,92.83821999999999,"Mizoram, India",2021-09-29,All,1122104
+35619,IN,IND,356,,,Madhya Pradesh,India,23.541513000000002,78.289633,"Madhya Pradesh, India",2021-09-29,All,62640970
+35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2021-09-29,All,80110234
+35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2021-09-29,All,1689977
+35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2021-09-29,All,1528689
+35623,IN,IND,356,,,Mizoram,India,23.309381,92.83821999999999,"Mizoram, India",2021-09-29,All,1122115
 35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2021-09-29,All,1037496
-35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2021-09-29,All,30013353
-35626,IN,IND,356,,,Puducherry,India,11.882658000000001,78.86498,"Puducherry, India",2021-09-29,All,1003920
-35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2021-09-29,All,19413580
+35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2021-09-29,All,30014884
+35626,IN,IND,356,,,Puducherry,India,11.882658000000001,78.86498,"Puducherry, India",2021-09-29,All,1003924
+35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2021-09-29,All,19413824
 35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2021-09-29,All,55336136
 35629,IN,IND,356,,,Sikkim,India,27.571671000000002,88.472712,"Sikkim, India",2021-09-29,All,896834
-35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-09-29,All,46646802
-35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-09-29,All,25194288
-35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-09-29,All,3847135
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-09-29,All,3464916
-35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-09-29,All,105216492
-35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-09-29,All,10423832
+35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-09-29,All,46648548
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-09-29,All,25194938
+35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-09-29,All,3847253
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-09-29,All,3462227
+35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-09-29,All,105219221
+35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-09-29,All,10423858
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-09-29,All,56771925
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2021-09-29,All,139232210
 360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2021-09-29,All,1496235
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-09-29,All,33077
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-09-29,All,47088
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-09-29,All,82679
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-29,All,41887324
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-29,All,41887501
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-09-29,All,1784832
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-09-29,All,6409263
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-09-29,All,148402
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-09-29,All,7892
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-09-29,All,8017072
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-09-29,All,4597106
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-09-29,All,6215462
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-09-29,All,6215463
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-09-29,All,18526941
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-09-29,All,14050000
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-09-29,All,39232772
