@@ -214,14 +214,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-09-30,All,5196072
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-09-30,All,9249943
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-09-30,All,551110
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-09-30,All,883391299
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-09-30,All,883484040
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-09-30,All,441608
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-09-30,All,40824546
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2021-09-30,All,1165394
 35604,IN,IND,356,,,Assam,India,26.357149,92.83044100000001,"Assam, India",2021-09-30,All,23911197
 35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2021-09-30,All,54161086
 35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2021-09-30,All,1344214
-35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2021-09-30,All,18130057
+35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2021-09-30,All,18222648
 35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2021-09-30,All,916466
 35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2021-09-30,All,17710047
 35610,IN,IND,356,,,Goa,India,15.359682000000001,74.057396,"Goa, India",2021-09-30,All,1914645
@@ -248,7 +248,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-09-30,All,46873188
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-09-30,All,25278929
 35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-09-30,All,3859683
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-09-30,All,3462334
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-09-30,All,3462484
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-09-30,All,105948099
 35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-09-30,All,10456921
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-09-30,All,57261226
@@ -342,12 +342,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-09-30,All,1436823
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-09-30,All,4402770
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-09-30,All,1626651
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-30,All,2893226
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-09-30,All,2893251
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-09-30,All,63341
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-09-30,All,82683
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-30,All,458249
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-30,All,178300
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-30,All,1302298
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-09-30,All,458257
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-09-30,All,178307
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-09-30,All,1302308
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-09-30,All,199264
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-09-30,All,308877
 422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-09-30,All,273023
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-09-30,All,33825
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-09-30,All,47100
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-09-30,All,82679
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-30,All,41992003
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-09-30,All,41992381
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-09-30,All,1784832
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-09-30,All,6456710
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-09-30,All,148402
