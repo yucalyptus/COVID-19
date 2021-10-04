@@ -177,7 +177,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-10-04,All,11958229
 218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-10-04,All,20896804
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-10-04,All,16959764
-222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-10-04,All,7584818
+222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-10-04,All,7653662
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-10-04,All,397083
 233,EE,EST,233,,,,Estonia,58.5953,25.0136,Estonia,2021-10-04,All,1374965
 23301,EE,EST,233,,,Harju,Estonia,59.3334,25.2467,"Harju, Estonia",2021-10-04,All,604947
@@ -208,17 +208,17 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-10-04,All,1653422
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-10-04,All,12180755
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-10-04,All,58985
-320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-10-04,All,7057840
+320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-10-04,All,7100558
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2021-10-04,All,1806301
 328,GY,GUY,328,,,,Guyana,4.860416000000001,-58.93018000000001,Guyana,2021-10-04,All,543180
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-10-04,All,5761882
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-10-04,All,12111107
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-10-04,All,554603
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-10-04,All,907910860
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-10-04,All,907911536
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-10-04,All,444347
-35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-10-04,All,42280743
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-10-04,All,42281383
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2021-10-04,All,1184655
-35604,IN,IND,356,,,Assam,India,26.357149,92.83044100000001,"Assam, India",2021-10-04,All,24833377
+35604,IN,IND,356,,,Assam,India,26.357149,92.83044100000001,"Assam, India",2021-10-04,All,24833402
 35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2021-10-04,All,57555852
 35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2021-10-04,All,1365873
 35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2021-10-04,All,18521695
@@ -247,10 +247,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35629,IN,IND,356,,,Sikkim,India,27.571671000000002,88.472712,"Sikkim, India",2021-10-04,All,913506
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-10-04,All,49143526
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-10-04,All,26391215
-35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-10-04,All,3907935
+35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-10-04,All,3907937
 35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-10-04,All,3921034
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-10-04,All,109190511
-35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-10-04,All,10571717
+35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-10-04,All,10571726
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-10-04,All,58801033
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2021-10-04,All,146594815
 360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2021-10-04,All,1548344
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-04,All,34149
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-04,All,47100
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-04,All,94640
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-04,All,42437182
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-04,All,42437768
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-04,All,1812874
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-04,All,6540692
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-04,All,148402
