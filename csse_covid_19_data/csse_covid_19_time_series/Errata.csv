@@ -28241,3 +28241,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705194,705215,Correct US deaths data
 10/06/2021,time_series_covid19_confirmed_US.csv,"Washoe, Nevada, US",10/05/2021,62215,61509,"Correct Washoe, Nevada, US confirmed data"
 10/06/2021,time_series_covid19_confirmed_global.csv,US,10/05/2021,43948011,43947305,Correct US confirmed data
+10/06/2021,time_series_covid19_confirmed_US.csv,"Out of IL, Illinois, US",10/05/2021,4,9,"Correct Out of IL, Illinois, US confirmed data"
+10/06/2021,time_series_covid19_confirmed_global.csv,US,10/05/2021,43947305,43947310,Correct US confirmed data
