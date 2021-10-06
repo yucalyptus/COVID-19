@@ -214,7 +214,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-10-06,All,5761882,58173
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-10-06,All,12111107,125369
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-10-06,All,554603,162521
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-10-06,All,926229074,67117
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-10-06,All,926234119,67118
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.96817800000001,"Andaman and Nicobar Islands, India",2021-10-06,All,452384,108476
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-10-06,All,42942600,79665
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2021-10-06,All,1208728,76966
@@ -248,7 +248,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-10-06,All,49694955,63841
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-10-06,All,26980097,68542
 35632,IN,IND,356,,,Tripura,India,23.746782999999997,91.743565,"Tripura, India",2021-10-06,All,3951598,94767
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-10-06,All,3527251,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-10-06,All,3532296,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-10-06,All,112152178,47146
 35634,IN,IND,356,,,Uttarakhand,India,30.156446999999996,79.197608,"Uttarakhand, India",2021-10-06,All,10664319,94786
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-10-06,All,60745262,60983
@@ -342,12 +342,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-10-06,All,1492885,22882
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-10-06,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-10-06,All,1668682,88467
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-06,All,2979246,43649
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-06,All,2979258,43649
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-06,All,66243,15638
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-06,All,85920,18762
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-06,All,470074,108499
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-06,All,85926,18763
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-06,All,470078,108500
 422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-06,All,185022,34626
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-06,All,1333120,87704
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-06,All,1333122,87704
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-06,All,207437,54042
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-06,All,320455,40515
 422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-06,All,283214,47996
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-06,All,34149,30779
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-06,All,47100,138782
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-06,All,94640,43182
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-06,All,42910806,123257
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-06,All,42912658,123263
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-06,All,1812874,10827
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-06,All,6605835,75604
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-06,All,148402,150907
@@ -573,14 +573,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2021-10-06,All,6894275,118408
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2021-10-06,All,530245,91617
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2021-10-06,All,2058553,4500
-804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-10-06,All,13291131,30391
+804,UA,UKR,804,,,,Ukraine,48.3794,31.1656,Ukraine,2021-10-06,All,13302370,30416
 80401,UA,UKR,804,,,Cherkasy Oblast,Ukraine,49.4444,32.0598,"Cherkasy Oblast, Ukraine",2021-10-06,All,458449,38002
 80402,UA,UKR,804,,,Chernihiv Oblast,Ukraine,51.4982,31.2893,"Chernihiv Oblast, Ukraine",2021-10-06,All,350700,34869
 80403,UA,UKR,804,,,Chernivtsi Oblast,Ukraine,48.2917,25.9352,"Chernivtsi Oblast, Ukraine",2021-10-06,All,248520,27479
 80405,UA,UKR,804,,,Dnipropetrovsk Oblast,Ukraine,48.4647,35.0462,"Dnipropetrovsk Oblast, Ukraine",2021-10-06,All,1211345,37778
 80406,UA,UKR,804,,,Donetsk Oblast,Ukraine,48.0159,37.8028,"Donetsk Oblast, Ukraine",2021-10-06,All,511335,12274
 80407,UA,UKR,804,,,Ivano-Frankivsk Oblast,Ukraine,48.9226,24.7111,"Ivano-Frankivsk Oblast, Ukraine",2021-10-06,All,326555,23779
-80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2021-10-06,All,923457,34514
+80408,UA,UKR,804,,,Kharkiv Oblast,Ukraine,49.9935,36.2304,"Kharkiv Oblast, Ukraine",2021-10-06,All,934696,34934
 80409,UA,UKR,804,,,Kherson Oblast,Ukraine,46.6354,32.6169,"Kherson Oblast, Ukraine",2021-10-06,All,334553,32241
 80410,UA,UKR,804,,,Khmelnytskyi Oblast,Ukraine,49.423,26.9871,"Khmelnytskyi Oblast, Ukraine",2021-10-06,All,393371,31103
 80411,UA,UKR,804,,,Kiev,Ukraine,50.4501,30.5234,"Kiev, Ukraine",2021-10-06,All,1833814,62146
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-10-06,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-10-06,All,8081245,147918
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-10-06,All,4612330,146955
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-06,All,6347546,182730
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-06,All,6348959,182770
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-10-06,All,19969345,59664
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-10-06,All,15714857,55264
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-10-06,All,46969510,48253
