@@ -28233,3 +28233,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/04/2021,time_series_covid19_deaths_global.csv,Turkey,10/01/2021,64037,64264,Correct Turkey deaths data
 10/04/2021,time_series_covid19_deaths_global.csv,Turkey,10/02/2021,64240,64467,Correct Turkey deaths data
 10/04/2021,time_series_covid19_deaths_global.csv,Turkey,10/03/2021,64434,64661,Correct Turkey deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Campbell, Wyoming, US",10/05/2021,77,85,"Correct Campbell, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Goshen, Wyoming, US",10/05/2021,29,33,"Correct Goshen, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Hot Springs, Wyoming, US",10/05/2021,7,8,"Correct Hot Springs, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Johnson, Wyoming, US",10/05/2021,13,15,"Correct Johnson, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Park, Wyoming, US",10/05/2021,48,54,"Correct Park, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705194,705215,Correct US deaths data
