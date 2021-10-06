@@ -28258,3 +28258,8 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/06/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/05/2021,5555,5551,"Correct San Bernardino, California, US deaths data"
 10/06/2021,time_series_covid19_deaths_US.csv,"Tulare, California, US",10/05/2021,924,920,"Correct Tulare, California, US deaths data"
 10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705221,705213,Correct US deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Meagher, Montana, US",10/05/2021,7,8,"Correct Meagher, Montana, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Mineral, Montana, US",10/05/2021,9,10,"Correct Mineral, Montana, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Phillips, Montana, US",10/05/2021,19,21,"Correct Phillips, Montana, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Ravalli, Montana, US",10/05/2021,56,64,"Correct Ravalli, Montana, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705213,705225,Correct US deaths data
