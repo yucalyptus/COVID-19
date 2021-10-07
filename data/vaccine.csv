@@ -97,7 +97,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-10-07,All,12263702,22539
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-10-07,All,24447227,146224
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-10-07,All,469341,1768
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-10-07,All,56813094,150078
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-10-07,All,56813623,150079
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-10-07,All,6173317,139884
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-10-07,All,7921070,154983
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-10-07,All,2006487,145659
@@ -105,7 +105,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-10-07,All,822685,157794
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-10-07,All,70449,156888
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-10-07,All,1526737,156194
-12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-10-07,All,46430,119726
+12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-10-07,All,46959,121090
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-10-07,All,21974193,149364
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-10-07,All,255617,161621
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-10-07,All,13172330,154284
@@ -342,14 +342,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-10-07,All,1502331,23027
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-10-07,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-10-07,All,1674844,88794
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-07,All,3008940,44084
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-07,All,67558,15948
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-07,All,3008944,44084
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-07,All,67559,15948
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-07,All,87060,19011
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-07,All,474552,109533
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-07,All,187146,35023
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-07,All,187147,35023
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-07,All,1344233,88435
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-07,All,209716,54636
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-07,All,324051,40969
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-07,All,324053,40970
 422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-07,All,286715,48589
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-10-07,All,27909,
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-10-07,All,46928,123051
@@ -421,7 +421,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2021-10-07,All,5501067,127493
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2021-10-07,All,194962,2179
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-10-07,All,4640590,65062
-604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-10-07,All,28726993,87125
+604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-10-07,All,28869756,87558
 608,PH,PHL,608,,,,Philippines,12.879721,121.77401699999999,Philippines,2021-10-07,All,48390819,44159
 616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-10-07,All,37739171,99716
 61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",2021-10-07,All,4,
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-07,All,34386,30993
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-07,All,47100,138782
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-07,All,94640,43182
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-07,All,43097427,123793
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-07,All,43098204,123796
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-07,All,1812874,10827
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-07,All,6605835,75604
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-07,All,148402,150907
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-10-07,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-10-07,All,8089922,148077
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-10-07,All,4615268,147048
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-07,All,6369934,183374
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-07,All,6371302,183414
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-10-07,All,19969345,59664
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-10-07,All,15714857,55264
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-10-07,All,48155037,49471
