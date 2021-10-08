@@ -97,12 +97,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-10-08,All,12263702,22539
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-10-08,All,24447227,146224
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-10-08,All,469341,1768
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-10-08,All,56813623,150079
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-10-08,All,56817862,150090
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-10-08,All,6173317,139884
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-10-08,All,7921070,154983
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-10-08,All,2006487,145659
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-10-08,All,1191782,152793
-12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-10-08,All,822685,157794
+12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-10-08,All,826924,158607
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-10-08,All,70449,156888
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.681999999999995,-63.7443,"Nova Scotia, Canada",2021-10-08,All,1526737,156194
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-10-08,All,46959,121090
@@ -410,7 +410,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 524007,NP,NPL,524,,,Sudurpashchim,Nepal,29.3863,82.3886,"Sudurpashchim, Nepal",2021-10-08,All,1206291,47258
 524008,NP,NPL,524,,,Unknown,Nepal,,,"Unknown, Nepal",2021-10-08,All,0,0
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2021-10-08,All,23667267,138123
-554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2021-10-08,All,5538151,114846
+554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2021-10-08,All,5621079,116565
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2021-10-08,All,861807,13009
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,2021-10-08,All,6852590,3324
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2021-10-08,All,1533495,73606
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-08,All,34386,30993
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-08,All,47100,138782
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-08,All,94640,43182
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-08,All,43099637,123800
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-08,All,43100197,123801
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-08,All,1812874,10827
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-08,All,6605835,75604
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-08,All,148402,150907
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-10-08,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-10-08,All,8089922,148077
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-10-08,All,4615268,147048
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-08,All,6372286,183442
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-08,All,6372364,183444
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-10-08,All,19969345,59664
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-10-08,All,15714857,55264
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-10-08,All,48155037,49471
