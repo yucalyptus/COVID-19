@@ -44,7 +44,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-10-09,All,10940556,121475
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-10-09,All,8923055,88005
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-10-09,All,224531,57096
-48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-10-09,All,2645484,155471
+48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-10-09,All,2651709,155837
 50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-10-09,All,53280648,32352
 5001,BD,BGD,50,,,Barisal,Bangladesh,23.685,90.3563,"Barisal, Bangladesh",2021-10-09,All,3317445,39846
 5002,BD,BGD,50,,,Chittagong,Bangladesh,23.685,90.3563,"Chittagong, Bangladesh",2021-10-09,All,9742294,33426
@@ -93,7 +93,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-10-09,All,1564851,99490
 7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",2021-10-09,All,9348959,
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-10-09,All,526193,120277
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-10-09,All,2585160,37204
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-10-09,All,2587495,37238
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-10-09,All,12263702,22539
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-10-09,All,24448071,146229
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-10-09,All,469341,1768
@@ -208,7 +208,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-10-09,All,2189552,7046
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-10-09,All,12296873,117977
 308,GD,GRD,308,,,,Grenada,12.1165,-61.678999999999995,Grenada,2021-10-09,All,58985,52422
-320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-10-09,All,7478725,41744
+320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-10-09,All,7573644,42274
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2021-10-09,All,1857641,14145
 328,GY,GUY,328,,,,Guyana,4.860416000000001,-58.93018000000001,Guyana,2021-10-09,All,583394,74170
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-10-09,All,5817602,58736
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-09,All,34386,30993
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-09,All,47100,138782
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-09,All,94640,43182
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-09,All,43330455,124463
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-09,All,43332405,124468
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-09,All,1828842,10922
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-09,All,6632125,75905
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-09,All,148402,150907
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-10-09,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-10-09,All,8105940,148370
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-10-09,All,4617281,147112
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-09,All,6397457,184166
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-09,All,6397482,184167
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-10-09,All,21978290,65667
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-10-09,All,16127242,56714
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-10-09,All,49254925,50601
