@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2021-10-13,All,219213,152244
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2021-10-13,All,1862163,120026
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2021-10-13,All,514241,17354
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-10-13,All,31020482,121841
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2021-10-13,All,767058,179177
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2021-10-13,All,11173538,137639
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2021-10-13,All,286577,116684
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2021-10-13,All,5310715,103816
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2021-10-13,All,1886422,107396
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2021-10-13,All,651854,121728
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-10-13,All,31358609,123169
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2021-10-13,All,775567,181164
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2021-10-13,All,11297922,139171
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2021-10-13,All,288110,117308
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2021-10-13,All,5364073,104859
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2021-10-13,All,1906103,108517
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2021-10-13,All,657574,122796
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2021-10-13,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2021-10-13,All,8266941,124691
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2021-10-13,All,2677377,101778
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2021-10-13,All,8364244,126159
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2021-10-13,All,2705016,102828
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-10-13,All,10957619,121664
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-10-13,All,8997289,88737
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-10-13,All,224531,57096
@@ -342,15 +342,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-10-13,All,1545233,23684
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-10-13,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-10-13,All,1703879,90333
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-13,All,3043378,44588
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-13,All,68683,16214
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-13,All,88695,19368
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-13,All,479419,110656
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-13,All,189885,35536
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-13,All,1357026,89276
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-13,All,212418,55340
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-13,All,328284,41504
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-13,All,290914,49300
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-13,All,3043573,44591
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-13,All,68692,16216
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-13,All,88698,19369
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-13,All,479445,110662
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-13,All,189892,35537
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-13,All,1357100,89281
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-13,All,212442,55346
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-13,All,328305,41507
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-13,All,290945,49306
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-10-13,All,28054,
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-10-13,All,47078,123444
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-10-13,All,3279760,120477
@@ -414,7 +414,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 558,NI,NIC,558,,,,Nicaragua,12.865416,-85.207229,Nicaragua,2021-10-13,All,999990,15095
 566,NG,NGA,566,,,,Nigeria,9.082,8.6753,Nigeria,2021-10-13,All,7273026,3528
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2021-10-13,All,1544531,74135
-578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2021-10-13,All,7878021,145317
+578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2021-10-13,All,7882176,145394
 512,OM,OMN,512,,,,Oman,21.512583,55.923255000000005,Oman,2021-10-13,All,6374064,124819
 586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,2021-10-13,All,92597193,41919
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2021-10-13,All,31431,174539
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-13,All,35118,31652
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-13,All,47100,138782
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-13,All,101065,46114
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-13,All,44054374,126542
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-13,All,44055480,126545
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-13,All,1828842,10922
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-13,All,6655878,76177
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-13,All,148402,150907
