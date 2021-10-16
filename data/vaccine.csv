@@ -44,7 +44,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-10-16,All,11009517,122241
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-10-16,All,9138351,90129
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-10-16,All,238432,60631
-48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-10-16,All,2695771,158427
+48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-10-16,All,2700105,158681
 50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-10-16,All,56133021,34084
 5001,BD,BGD,50,,,Barisal,Bangladesh,23.685,90.3563,"Barisal, Bangladesh",2021-10-16,All,3500422,42043
 5002,BD,BGD,50,,,Chittagong,Bangladesh,23.685,90.3563,"Chittagong, Bangladesh",2021-10-16,All,10230855,35103
@@ -93,7 +93,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-10-16,All,1592310,101236
 7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",2021-10-16,All,7892032,
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-10-16,All,563695,128849
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-10-16,All,2623783,37760
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-10-16,All,2626708,37802
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-10-16,All,12263702,22539
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-10-16,All,26235936,156923
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-10-16,All,479521,1806
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-16,All,37377,33689
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-16,All,47380,139607
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-16,All,102791,46902
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-16,All,44517492,127872
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-16,All,44519555,127878
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-16,All,1836019,10965
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-16,All,6678484,76435
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-16,All,148402,150907
@@ -473,7 +473,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2021-10-16,All,0,0
 70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2021-10-16,All,65600,157669
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-10-16,All,141920,21738
-710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-10-16,All,20124176,33931
+710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-10-16,All,20179370,34024
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2021-10-16,All,115650,1033
 724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-10-16,All,70982052,151817
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-10-16,All,27488241,128370
