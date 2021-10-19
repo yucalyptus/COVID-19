@@ -63,7 +63,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-10-19,All,7084229,60688
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-10-19,All,1242203,37862
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-10-19,All,783999,33338
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-10-19,All,258823504,121765
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-10-19,All,277927336,130752
 7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",2021-10-19,All,871110,98772
 7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",2021-10-19,All,3449557,103361
 7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",2021-10-19,All,712468,84242
@@ -97,10 +97,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2021-10-19,All,12263702,22539
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-10-19,All,26589595,159038
 120,CM,CMR,120,,,,Cameroon,3.8480000000000003,11.5021,Cameroon,2021-10-19,All,490604,1848
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-10-19,All,57754461,152564
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-10-19,All,57759958,152579
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-10-19,All,6350131,143891
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-10-19,All,8060794,157717
-12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-10-19,All,2045211,148470
+12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-10-19,All,2050708,148869
 12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-10-19,All,1211475,155318
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-10-19,All,844411,161961
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-10-19,All,72553,161573
@@ -342,15 +342,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-10-19,All,1612242,24711
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-10-19,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-10-19,All,1789826,94890
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-19,All,3149877,46149
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-19,All,3149926,46149
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-19,All,72485,17111
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-19,All,92126,20117
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-19,All,495396,114344
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-19,All,197113,36888
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-19,All,1397810,91960
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-19,All,220569,57463
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-19,All,92131,20118
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-19,All,495406,114346
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-19,All,197130,36892
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-19,All,1397811,91960
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-19,All,220581,57467
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-19,All,342090,43250
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-19,All,304087,51533
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-19,All,304091,51534
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-10-19,All,28201,
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-10-19,All,47526,124619
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-10-19,All,3315603,121794
@@ -443,7 +443,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61616,PL,POL,616,,,zachodniopomorskie,Poland,53.4658,15.1823,"zachodniopomorskie, Poland",2021-10-19,All,1774115,104296
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-10-19,All,16104710,157940
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-10-19,All,4796589,166486
-642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-10-19,All,11237605,58414
+642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-10-19,All,11306239,58771
 643,RU,RUS,643,,,,Russia,61.52401,105.31875600000001,Russia,2021-10-19,All,98735917,67657
 646,RW,RWA,646,,,,Rwanda,-1.9403,29.8739,Rwanda,2021-10-19,All,4646977,35877
 659,KN,KNA,659,,,,Saint Kitts and Nevis,17.357822,-62.782998,Saint Kitts and Nevis,2021-10-19,All,49318,92716
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-19,All,38030,34277
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-19,All,47380,139607
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-19,All,103720,47325
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-19,All,44847580,128821
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-19,All,44853726,128838
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-19,All,1959198,11700
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-19,All,6678484,76435
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-19,All,159392,162082
@@ -473,7 +473,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2021-10-19,All,0,0
 70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2021-10-19,All,65690,157885
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2021-10-19,All,141920,21738
-710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-10-19,All,20381262,34364
+710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2021-10-19,All,20580832,34701
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2021-10-19,All,120467,1076
 724,ES,ESP,724,,,,Spain,40.463667,-3.7492199999999998,Spain,2021-10-19,All,71072261,152010
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2021-10-19,All,27603568,128908
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-10-19,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-10-19,All,8173394,149605
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-10-19,All,4654507,148298
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-19,All,6500925,187145
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-19,All,6502322,187185
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-10-19,All,23846899,71250
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-10-19,All,16127242,56714
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-10-19,All,63434180,65168
