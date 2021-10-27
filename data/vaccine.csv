@@ -174,7 +174,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-10-27,All,76876,157323
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-10-27,All,77057,135730
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-10-27,All,50991,70829
-214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-10-27,All,13110383,120856
+214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-10-27,All,13161106,121323
 218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-10-27,All,21680447,122883
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802497999999996,Egypt,2021-10-27,All,25083832,24511
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-10-27,All,8411708,129686
@@ -342,15 +342,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-10-27,All,1689000,25888
 418,LA,LAO,418,,,,Laos,19.856270000000002,102.495496,Laos,2021-10-27,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-10-27,All,1888230,100107
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-27,All,3262974,47806
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-27,All,77708,18344
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-27,All,96735,21124
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-27,All,511422,118043
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-27,All,206154,38580
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-27,All,1437489,94570
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-27,All,229461,59780
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-27,All,356585,45083
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-27,All,318922,54047
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-10-27,All,3263305,47810
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-10-27,All,77731,18350
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-10-27,All,96752,21128
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-10-27,All,511472,118054
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-10-27,All,206164,38582
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-10-27,All,1437653,94581
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-10-27,All,229470,59782
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-10-27,All,356615,45086
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-10-27,All,318950,54052
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-10-27,All,28498,
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-10-27,All,48525,127238
 440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-10-27,All,3365399,123623
@@ -451,7 +451,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 670,VC,VCT,670,,,,Saint Vincent and the Grenadines,12.9843,-61.2872,Saint Vincent and the Grenadines,2021-10-27,All,40130,36170
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-10-27,All,47381,139610
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-10-27,All,103720,47325
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-27,All,45464174,130592
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-10-27,All,45467483,130601
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-10-27,All,1961144,11712
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-10-27,All,6955928,79611
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-10-27,All,165206,167994
@@ -600,20 +600,20 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2021-10-27,All,604832,35456
 80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2021-10-27,All,514903,42198
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818000000004,United Arab Emirates,2021-10-27,All,20999143,212318
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-10-27,All,102595461,151129
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-10-27,All,102595491,151129
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-10-27,All,18705,124683
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-10-27,All,89029,142965
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2021-10-27,All,111772,170073
 82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-10-27,All,79892684,142723
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2021-10-27,All,4407,126528
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2021-10-27,All,87370,259327
-833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2021-10-27,All,142772,167903
+833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2021-10-27,All,142802,167939
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366000000004,"Montserrat, United Kingdom",2021-10-27,All,2911,58231
 82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-10-27,All,2562263,136174
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-10-27,All,7892,139410
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-10-27,All,8207065,150221
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-10-27,All,4673916,148917
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-27,All,6575583,189294
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-10-27,All,6577007,189335
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-10-27,All,25297345,75583
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-10-27,All,16127242,56714
 704,VN,VNM,704,,,,Vietnam,14.058323999999999,108.277199,Vietnam,2021-10-27,All,74950393,76999
