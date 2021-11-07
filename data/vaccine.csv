@@ -186,7 +186,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2021-11-07,All,92097,9321
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-11-07,All,53307,74046
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-11-07,All,13412773,123643
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-11-07,All,22601841,128106
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-11-07,All,22692858,128622
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2021-11-07,All,28934095,28274
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-11-07,All,8674987,133745
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-11-07,All,433182,30875
@@ -395,15 +395,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-11-07,All,1799656,27584
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2021-11-07,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-11-07,All,2007688,106440
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-11-07,All,3386062,49609
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-11-07,All,3386066,49609
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-11-07,All,82830,19554
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-11-07,All,102204,22318
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-11-07,All,529513,122219
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-11-07,All,529514,122219
 422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-11-07,All,217432,40691
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-11-07,All,1478358,97259
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-11-07,All,239882,62495
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-11-07,All,239884,62495
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-11-07,All,372722,47123
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-11-07,All,334344,56660
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-11-07,All,334345,56661
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-11-07,All,28777,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2021-11-07,All,559450,26115
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2021-11-07,All,438563,8671
@@ -486,24 +486,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-11-07,All,5316775,74542
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-11-07,All,35922623,108949
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,2021-11-07,All,62474334,57011
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-11-07,All,39408902,104127
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-11-07,All,39459792,104262
 61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",2021-11-07,All,4,
-61601,PL,POL,616,,,dolnoslaskie,Poland,51.13399999999999,16.8842,"dolnoslaskie, Poland",2021-11-07,All,3158961,108883
-61602,PL,POL,616,,,kujawsko-pomorskie,Poland,53.1648,18.4834,"kujawsko-pomorskie, Poland",2021-11-07,All,2121692,102113
-61605,PL,POL,616,,,lodzkie,Poland,51.4635,19.1727,"lodzkie, Poland",2021-11-07,All,2586637,104878
-61603,PL,POL,616,,,lubelskie,Poland,51.2494,23.1011,"lubelskie, Poland",2021-11-07,All,1843656,87062
-61604,PL,POL,616,,,lubuskie,Poland,52.2275,15.2559,"lubuskie, Poland",2021-11-07,All,1087384,107179
-61606,PL,POL,616,,,malopolskie,Poland,49.7225,20.2503,"malopolskie, Poland",2021-11-07,All,3330810,97948
-61607,PL,POL,616,,,mazowieckie,Poland,51.8927,21.0022,"mazowieckie, Poland",2021-11-07,All,6187395,114509
-61608,PL,POL,616,,,opolskie,Poland,50.8004,17.938,"opolskie, Poland",2021-11-07,All,923043,93566
-61609,PL,POL,616,,,podkarpackie,Poland,50.0575,22.0896,"podkarpackie, Poland",2021-11-07,All,1692179,79481
-61610,PL,POL,616,,,podlaskie,Poland,53.0697,22.9675,"podlaskie, Poland",2021-11-07,All,1131957,95804
-61611,PL,POL,616,,,pomorskie,Poland,54.2944,18.1531,"pomorskie, Poland",2021-11-07,All,2600285,111431
-61612,PL,POL,616,,,slaskie,Poland,50.5717,19.322,"slaskie, Poland",2021-11-07,All,4666989,102943
-61613,PL,POL,616,,,swietokrzyskie,Poland,50.6261,20.9406,"swietokrzyskie, Poland",2021-11-07,All,1132673,91230
-61614,PL,POL,616,,,warminsko-mazurskie,Poland,53.8671,20.7028,"warminsko-mazurskie, Poland",2021-11-07,All,1360127,95181
-61615,PL,POL,616,,,wielkopolskie,Poland,52.28,17.3523,"wielkopolskie, Poland",2021-11-07,All,3759033,107586
-61616,PL,POL,616,,,zachodniopomorskie,Poland,53.4658,15.1823,"zachodniopomorskie, Poland",2021-11-07,All,1826077,107351
+61601,PL,POL,616,,,dolnoslaskie,Poland,51.13399999999999,16.8842,"dolnoslaskie, Poland",2021-11-07,All,3162136,108993
+61602,PL,POL,616,,,kujawsko-pomorskie,Poland,53.1648,18.4834,"kujawsko-pomorskie, Poland",2021-11-07,All,2124710,102258
+61605,PL,POL,616,,,lodzkie,Poland,51.4635,19.1727,"lodzkie, Poland",2021-11-07,All,2589761,105004
+61603,PL,POL,616,,,lubelskie,Poland,51.2494,23.1011,"lubelskie, Poland",2021-11-07,All,1845742,87161
+61604,PL,POL,616,,,lubuskie,Poland,52.2275,15.2559,"lubuskie, Poland",2021-11-07,All,1089155,107353
+61606,PL,POL,616,,,malopolskie,Poland,49.7225,20.2503,"malopolskie, Poland",2021-11-07,All,3335162,98076
+61607,PL,POL,616,,,mazowieckie,Poland,51.8927,21.0022,"mazowieckie, Poland",2021-11-07,All,6197389,114693
+61608,PL,POL,616,,,opolskie,Poland,50.8004,17.938,"opolskie, Poland",2021-11-07,All,923825,93646
+61609,PL,POL,616,,,podkarpackie,Poland,50.0575,22.0896,"podkarpackie, Poland",2021-11-07,All,1694029,79568
+61610,PL,POL,616,,,podlaskie,Poland,53.0697,22.9675,"podlaskie, Poland",2021-11-07,All,1133800,95960
+61611,PL,POL,616,,,pomorskie,Poland,54.2944,18.1531,"pomorskie, Poland",2021-11-07,All,2603390,111564
+61612,PL,POL,616,,,slaskie,Poland,50.5717,19.322,"slaskie, Poland",2021-11-07,All,4672307,103060
+61613,PL,POL,616,,,swietokrzyskie,Poland,50.6261,20.9406,"swietokrzyskie, Poland",2021-11-07,All,1134157,91350
+61614,PL,POL,616,,,warminsko-mazurskie,Poland,53.8671,20.7028,"warminsko-mazurskie, Poland",2021-11-07,All,1361494,95277
+61615,PL,POL,616,,,wielkopolskie,Poland,52.28,17.3523,"wielkopolskie, Poland",2021-11-07,All,3764754,107750
+61616,PL,POL,616,,,zachodniopomorskie,Poland,53.4658,15.1823,"zachodniopomorskie, Poland",2021-11-07,All,1827977,107462
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-11-07,All,16246592,159331
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-11-07,All,4854499,168496
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-11-07,All,13165832,68437
