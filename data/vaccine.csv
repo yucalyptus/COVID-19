@@ -45,15 +45,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-11-09,All,9917741,97816
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-11-09,All,263795,67081
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2021-11-09,All,2804342,164807
-50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-11-09,All,76877974,46680
-5001,BD,BGD,50,,,Barisal,Bangladesh,22.701,90.3535,"Barisal, Bangladesh",2021-11-09,All,4708713,56556
-5002,BD,BGD,50,,,Chittagong,Bangladesh,22.3569,91.7832,"Chittagong, Bangladesh",2021-11-09,All,13667530,46894
-5003,BD,BGD,50,,,Dhaka,Bangladesh,23.8103,90.4125,"Dhaka, Bangladesh",2021-11-09,All,21723146,59624
-5004,BD,BGD,50,,,Khulna,Bangladesh,22.8456,89.5403,"Khulna, Bangladesh",2021-11-09,All,9836069,62699
-5005,BD,BGD,50,,,Mymensingh,Bangladesh,24.7471,90.4203,"Mymensingh, Bangladesh",2021-11-09,All,4974665,43752
-5006,BD,BGD,50,,,Rajshahi,Bangladesh,23.685,90.3563,"Rajshahi, Bangladesh",2021-11-09,All,9179455,49656
-5007,BD,BGD,50,,,Rangpur,Bangladesh,24.3745,88.6042,"Rangpur, Bangladesh",2021-11-09,All,8476973,53693
-5008,BD,BGD,50,,,Sylhet,Bangladesh,24.8949,91.8687,"Sylhet, Bangladesh",2021-11-09,All,4311423,43962
+50,BD,BGD,50,,,,Bangladesh,23.685,90.3563,Bangladesh,2021-11-09,All,78356722,47578
+5001,BD,BGD,50,,,Barisal,Bangladesh,22.701,90.3535,"Barisal, Bangladesh",2021-11-09,All,4807577,57744
+5002,BD,BGD,50,,,Chittagong,Bangladesh,22.3569,91.7832,"Chittagong, Bangladesh",2021-11-09,All,13926155,47782
+5003,BD,BGD,50,,,Dhaka,Bangladesh,23.8103,90.4125,"Dhaka, Bangladesh",2021-11-09,All,22062616,60555
+5004,BD,BGD,50,,,Khulna,Bangladesh,22.8456,89.5403,"Khulna, Bangladesh",2021-11-09,All,9995222,63713
+5005,BD,BGD,50,,,Mymensingh,Bangladesh,24.7471,90.4203,"Mymensingh, Bangladesh",2021-11-09,All,5102849,44879
+5006,BD,BGD,50,,,Rajshahi,Bangladesh,23.685,90.3563,"Rajshahi, Bangladesh",2021-11-09,All,9369843,50686
+5007,BD,BGD,50,,,Rangpur,Bangladesh,24.3745,88.6042,"Rangpur, Bangladesh",2021-11-09,All,8676013,54954
+5008,BD,BGD,50,,,Sylhet,Bangladesh,24.8949,91.8687,"Sylhet, Bangladesh",2021-11-09,All,4416447,45033
 5009,BD,BGD,50,,,Unknown,Bangladesh,,,"Unknown, Bangladesh",2021-11-09,All,0,0
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2021-11-09,All,279295,97189
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2021-11-09,All,4766181,50439
@@ -64,34 +64,34 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 68,BO,BOL,68,,,,Bolivia,-16.2902,-63.5887,Bolivia,2021-11-09,All,7963463,68221
 70,BA,BIH,70,,,,Bosnia and Herzegovina,43.9159,17.6791,Bosnia and Herzegovina,2021-11-09,All,1479596,45098
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2021-11-09,All,1028674,43743
-76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-11-09,All,281773105,132562
-7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",2021-11-09,All,958086,108634
-7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",2021-11-09,All,3838889,115027
+76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2021-11-09,All,300624378,141430
+7601,BR,BRA,76,,,Acre,Brazil,-9.0238,-70.812,"Acre, Brazil",2021-11-09,All,942502,106867
+7602,BR,BRA,76,,,Alagoas,Brazil,-9.5713,-36.782,"Alagoas, Brazil",2021-11-09,All,3720440,111478
 7603,BR,BRA,76,,,Amapa,Brazil,0.902,-52.003,"Amapa, Brazil",2021-11-09,All,796911,94227
 7604,BR,BRA,76,,,Amazonas,Brazil,-3.4168,-65.8561,"Amazonas, Brazil",2021-11-09,All,4568233,110221
-7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",2021-11-09,All,16759697,112684
-7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",2021-11-09,All,9770999,106996
+7605,BR,BRA,76,,,Bahia,Brazil,-12.5797,-41.7007,"Bahia, Brazil",2021-11-09,All,16454818,110635
+7606,BR,BRA,76,,,Ceara,Brazil,-5.4984,-39.3206,"Ceara, Brazil",2021-11-09,All,9418359,103134
 7607,BR,BRA,76,,,Distrito Federal,Brazil,-15.7998,-47.8645,"Distrito Federal, Brazil",2021-11-09,All,3953628,131120
-7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",2021-11-09,All,5502068,136913
+7608,BR,BRA,76,,,Espirito Santo,Brazil,-19.1834,-40.3089,"Espirito Santo, Brazil",2021-11-09,All,5426825,135041
 7609,BR,BRA,76,,,Goias,Brazil,-15.827,-49.8362,"Goias, Brazil",2021-11-09,All,8708113,124076
-7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",2021-11-09,All,7271579,102775
+7610,BR,BRA,76,,,Maranhao,Brazil,-4.9609,-45.2744,"Maranhao, Brazil",2021-11-09,All,7133472,100823
 7611,BR,BRA,76,,,Mato Grosso,Brazil,-12.6819,-56.9211,"Mato Grosso, Brazil",2021-11-09,All,4328212,124214
 7612,BR,BRA,76,,,Mato Grosso do Sul,Brazil,-20.7722,-54.7852,"Mato Grosso do Sul, Brazil",2021-11-09,All,3840798,138208
-7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",2021-11-09,All,27198712,128484
-7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",2021-11-09,All,8280994,96258
-7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2021-11-09,All,5161874,128464
-7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",2021-11-09,All,16076258,140601
-7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",2021-11-09,All,11606087,121439
-7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",2021-11-09,All,4196400,128203
-7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",2021-11-09,All,4504149,128438
-7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",2021-11-09,All,16142743,141886
-7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",2021-11-09,All,22406394,129779
-7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",2021-11-09,All,2052937,115513
-7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",2021-11-09,All,590277,97443
-7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2021-11-09,All,10147905,141635
-7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",2021-11-09,All,72147454,157118
-7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2021-11-09,All,2578012,112151
-7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-11-09,All,1789602,113779
+7613,BR,BRA,76,,,Minas Gerais,Brazil,-18.5122,-44.555,"Minas Gerais, Brazil",2021-11-09,All,26901862,127082
+7614,BR,BRA,76,,,Para,Brazil,-1.9981,-54.9306,"Para, Brazil",2021-11-09,All,8145210,94680
+7615,BR,BRA,76,,,Paraiba,Brazil,-7.24,-36.782,"Paraiba, Brazil",2021-11-09,All,5007256,124616
+7616,BR,BRA,76,,,Parana,Brazil,-25.2521,-52.0215,"Parana, Brazil",2021-11-09,All,15846768,138593
+7617,BR,BRA,76,,,Pernambuco,Brazil,-8.8137,-36.9541,"Pernambuco, Brazil",2021-11-09,All,11386808,119145
+7618,BR,BRA,76,,,Piaui,Brazil,-7.7183,-42.7289,"Piaui, Brazil",2021-11-09,All,4094778,125099
+7620,BR,BRA,76,,,Rio Grande do Norte,Brazil,-5.4026,-36.9541,"Rio Grande do Norte, Brazil",2021-11-09,All,4420767,126060
+7621,BR,BRA,76,,,Rio Grande do Sul,Brazil,-30.0346,-51.2177,"Rio Grande do Sul, Brazil",2021-11-09,All,15907647,139819
+7619,BR,BRA,76,,,Rio de Janeiro,Brazil,-22.9068,-43.1729,"Rio de Janeiro, Brazil",2021-11-09,All,22261324,128939
+7622,BR,BRA,76,,,Rondonia,Brazil,-11.5057,-63.5806,"Rondonia, Brazil",2021-11-09,All,2013455,113292
+7623,BR,BRA,76,,,Roraima,Brazil,-2.7376,-62.0751,"Roraima, Brazil",2021-11-09,All,573851,94732
+7624,BR,BRA,76,,,Santa Catarina,Brazil,-27.2423,-50.2189,"Santa Catarina, Brazil",2021-11-09,All,9963170,139057
+7625,BR,BRA,76,,,Sao Paulo,Brazil,-23.5505,-46.6333,"Sao Paulo, Brazil",2021-11-09,All,71535434,155785
+7626,BR,BRA,76,,,Sergipe,Brazil,-10.5741,-37.3857,"Sergipe, Brazil",2021-11-09,All,2525930,109885
+7627,BR,BRA,76,,,Tocantins,Brazil,-10.1753,-48.2982,"Tocantins, Brazil",2021-11-09,All,1743426,110843
 7628,BR,BRA,76,,,Unknown,Brazil,,,"Unknown, Brazil",2021-11-09,All,6596094,
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2021-11-09,All,633464,144797
 100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2021-11-09,All,2978843,42870
@@ -395,15 +395,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-11-09,All,1805684,27676
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2021-11-09,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-11-09,All,2030734,107662
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-11-09,All,3422448,50142
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-11-09,All,3422503,50143
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-11-09,All,84693,19993
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-11-09,All,103682,22641
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-11-09,All,535264,123546
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-11-09,All,221027,41364
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-11-09,All,1489656,98002
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-11-09,All,243056,63322
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-11-09,All,535270,123547
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-11-09,All,221029,41364
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-11-09,All,1489686,98004
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-11-09,All,243071,63326
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-11-09,All,377294,47701
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-11-09,All,338911,57434
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-11-09,All,338913,57435
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-11-09,All,28865,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2021-11-09,All,559450,26115
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2021-11-09,All,438563,8671
@@ -505,7 +505,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61615,PL,POL,616,,,wielkopolskie,Poland,52.28,17.3523,"wielkopolskie, Poland",2021-11-09,All,3770959,107927
 61616,PL,POL,616,,,zachodniopomorskie,Poland,53.4658,15.1823,"zachodniopomorskie, Poland",2021-11-09,All,1831236,107654
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-11-09,All,16246592,159331
-634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-11-09,All,4859929,168685
+634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-11-09,All,4863433,168807
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-11-09,All,13292391,69095
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2021-11-09,All,110241320,75541
 64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2021-11-09,All,110241320,
@@ -605,7 +605,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-11-09,All,1243643,88863
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-11-09,All,9610235,81314
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-11-09,All,117562317,139392
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-11-09,All,430487397,130662
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-11-09,All,430488371,130662
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-11-09,All,4971453,101392
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-11-09,All,897495,122684
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2021-11-09,All,66218,119009
@@ -642,7 +642,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000035,US,USA,840,35,,New Mexico,US,34.8405,-106.2485,"New Mexico, US",2021-11-09,All,2906940,138635
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-11-09,All,28113246,144514
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-11-09,All,12702441,121113
-84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2021-11-09,All,835516,109638
+84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2021-11-09,All,836490,109766
 580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-11-09,All,76212,138205
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2021-11-09,All,13407043,114696
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2021-11-09,All,4602420,116311
@@ -690,23 +690,23 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2021-11-09,All,743682,43596
 80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2021-11-09,All,607884,49818
 784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2021-11-09,All,21402503,216396
-826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-11-09,All,107273702,158020
+826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2021-11-09,All,107605215,158508
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2021-11-09,All,18706,124690
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2021-11-09,All,101341,162736
 92,VG,VGB,92,,,British Virgin Islands,United Kingdom,18.4207,-64.64,"British Virgin Islands, United Kingdom",2021-11-09,All,34377,113691
 136,KY,CYM,136,,,Cayman Islands,United Kingdom,19.3133,-81.2546,"Cayman Islands, United Kingdom",2021-11-09,All,116507,177277
 8261,GB,GBR,826,,,Channel Islands,United Kingdom,49.3723,-2.3644,"Channel Islands, United Kingdom",2021-11-09,All,276244,162020
-82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-11-09,All,89204129,159357
+82601,GB,GBR,826,,,England,United Kingdom,52.3555,-1.1743,"England, United Kingdom",2021-11-09,All,89474402,159840
 238,FK,FLK,238,,,Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,"Falkland Islands (Malvinas), United Kingdom",2021-11-09,All,4407,126528
 292,GI,GIB,292,,,Gibraltar,United Kingdom,36.1408,-5.3536,"Gibraltar, United Kingdom",2021-11-09,All,91931,272865
-833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2021-11-09,All,145087,170626
+833,IM,IMN,833,,,Isle of Man,United Kingdom,54.2361,-4.5481,"Isle of Man, United Kingdom",2021-11-09,All,145102,170643
 500,MS,MSR,500,,,Montserrat,United Kingdom,16.742498,-62.187366,"Montserrat, United Kingdom",2021-11-09,All,2911,58231
-82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-11-09,All,2728343,145001
+82602,GB,GBR,826,,,Northern Ireland,United Kingdom,54.7877,-6.4923,"Northern Ireland, United Kingdom",2021-11-09,All,2741091,145678
 654,SH,SHN,654,,,"Saint Helena, Ascension and Tristan da Cunha",United Kingdom,-7.9467,-14.3559,"Saint Helena, Ascension and Tristan da Cunha, United Kingdom",2021-11-09,All,7892,139410
-82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-11-09,All,9227500,168899
+82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-11-09,All,9260327,169500
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2021-11-09,All,56343,145521
-82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-11-09,All,5257984,167526
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-11-09,All,6663950,191838
+82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-11-09,All,5273634,168025
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-11-09,All,6664686,191859
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-11-09,All,27845532,83197
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2021-11-09,All,114912,39261
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-11-09,All,23156914,81435
