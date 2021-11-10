@@ -57,7 +57,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 5009,BD,BGD,50,,,Unknown,Bangladesh,,,"Unknown, Bangladesh",2021-11-10,All,0,0
 52,BB,BRB,52,,,,Barbados,13.1939,-59.5432,Barbados,2021-11-10,All,280403,97575
 112,BY,BLR,112,,,,Belarus,53.7098,27.9534,Belarus,2021-11-10,All,4766181,50439
-56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2021-11-10,All,17666439,152433
+56,BE,BEL,56,,,,Belgium,50.8333,4.469936,Belgium,2021-11-10,All,17699770,152720
 84,BZ,BLZ,84,,,,Belize,17.1899,-88.4976,Belize,2021-11-10,All,391846,98547
 204,BJ,BEN,204,,,,Benin,9.3077,2.3158,Benin,2021-11-10,All,347270,2864
 64,BT,BTN,64,,,,Bhutan,27.5142,90.4336,Bhutan,2021-11-10,All,1148146,148798
@@ -238,22 +238,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2021-11-10,All,267011,11048
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2021-11-10,All,2018336,50595
 276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2021-11-10,All,113672633,135673
-27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",2021-11-10,All,14584212,131750
-27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",2021-11-10,All,17281897,132157
-27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",2021-11-10,All,5124720,140602
-27604,DE,DEU,276,,,Brandenburg,Germany,52.4125,12.5316,"Brandenburg, Germany",2021-11-10,All,3097616,123316
-27605,DE,DEU,276,,,Bremen,Germany,53.0793,8.8017,"Bremen, Germany",2021-11-10,All,1080615,158219
-27606,DE,DEU,276,,,Hamburg,Germany,53.5511,9.9937,"Hamburg, Germany",2021-11-10,All,2697989,146535
-27607,DE,DEU,276,,,Hessen,Germany,50.6521,9.1624,"Hessen, Germany",2021-11-10,All,8518496,135952
-27608,DE,DEU,276,,,Mecklenburg-Vorpommern,Germany,53.6127,12.4296,"Mecklenburg-Vorpommern, Germany",2021-11-10,All,2126045,132079
-27609,DE,DEU,276,,,Niedersachsen,Germany,52.6367,9.8451,"Niedersachsen, Germany",2021-11-10,All,11134597,139488
-27610,DE,DEU,276,,,Nordrhein-Westfalen,Germany,51.4332,7.6616,"Nordrhein-Westfalen, Germany",2021-11-10,All,25841841,144104
-27611,DE,DEU,276,,,Rheinland-Pfalz,Germany,50.1183,7.309,"Rheinland-Pfalz, Germany",2021-11-10,All,5654271,138420
-27612,DE,DEU,276,,,Saarland,Germany,49.3964,7.023,"Saarland, Germany",2021-11-10,All,1461128,147512
-27613,DE,DEU,276,,,Sachsen,Germany,51.1045,13.2017,"Sachsen, Germany",2021-11-10,All,4719326,115728
-27614,DE,DEU,276,,,Sachsen-Anhalt,Germany,51.9503,11.6923,"Sachsen-Anhalt, Germany",2021-11-10,All,2760887,125022
-27615,DE,DEU,276,,,Schleswig-Holstein,Germany,54.2194,9.6961,"Schleswig-Holstein, Germany",2021-11-10,All,4258970,147027
-27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2021-11-10,All,2624701,122469
+27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",2021-11-10,All,14618077,132056
+27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",2021-11-10,All,17340783,132608
+27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",2021-11-10,All,5142601,141093
+27604,DE,DEU,276,,,Brandenburg,Germany,52.4125,12.5316,"Brandenburg, Germany",2021-11-10,All,3105987,123650
+27605,DE,DEU,276,,,Bremen,Germany,53.0793,8.8017,"Bremen, Germany",2021-11-10,All,1084109,158730
+27606,DE,DEU,276,,,Hamburg,Germany,53.5511,9.9937,"Hamburg, Germany",2021-11-10,All,2709577,147165
+27607,DE,DEU,276,,,Hessen,Germany,50.6521,9.1624,"Hessen, Germany",2021-11-10,All,8540297,136299
+27608,DE,DEU,276,,,Mecklenburg-Vorpommern,Germany,53.6127,12.4296,"Mecklenburg-Vorpommern, Germany",2021-11-10,All,2130950,132383
+27609,DE,DEU,276,,,Niedersachsen,Germany,52.6367,9.8451,"Niedersachsen, Germany",2021-11-10,All,11165921,139880
+27610,DE,DEU,276,,,Nordrhein-Westfalen,Germany,51.4332,7.6616,"Nordrhein-Westfalen, Germany",2021-11-10,All,25915847,144517
+27611,DE,DEU,276,,,Rheinland-Pfalz,Germany,50.1183,7.309,"Rheinland-Pfalz, Germany",2021-11-10,All,5671621,138845
+27612,DE,DEU,276,,,Saarland,Germany,49.3964,7.023,"Saarland, Germany",2021-11-10,All,1466313,148036
+27613,DE,DEU,276,,,Sachsen,Germany,51.1045,13.2017,"Sachsen, Germany",2021-11-10,All,4733545,116076
+27614,DE,DEU,276,,,Sachsen-Anhalt,Germany,51.9503,11.6923,"Sachsen-Anhalt, Germany",2021-11-10,All,2769453,125409
+27615,DE,DEU,276,,,Schleswig-Holstein,Germany,54.2194,9.6961,"Schleswig-Holstein, Germany",2021-11-10,All,4269274,147383
+27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2021-11-10,All,2635312,122964
 27617,DE,DEU,276,,,Unknown,Germany,,,"Unknown, Germany",2021-11-10,All,0,0
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-11-10,All,3162666,10178
 300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-11-10,All,12989239,124620
@@ -387,7 +387,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39815,KZ,KAZ,398,,,Shymkent,Kazakhstan,42.3417,69.5901,"Shymkent, Kazakhstan",2021-11-10,All,1079794,89982
 39816,KZ,KAZ,398,,,Turkistan,Kazakhstan,42.2663,68.1431,"Turkistan, Kazakhstan",2021-11-10,All,1923053,71621
 39817,KZ,KAZ,398,,,West Kazakhstan,Kazakhstan,49.568000000000005,50.8067,"West Kazakhstan, Kazakhstan",2021-11-10,All,462464,70406
-404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-11-10,All,5691050,10583
+404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-11-10,All,5751332,10695
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,2021-11-10,All,65279,55506
 410,KR,KOR,410,,,,"Korea, South",35.90775700000001,127.766922,"Korea, South",2021-11-10,All,81312877,158599
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,2021-11-10,All,1581266,87345
@@ -395,16 +395,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2021-11-10,All,1814268,27808
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2021-11-10,All,4402770,60514
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2021-11-10,All,2045185,108428
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-11-10,All,3431723,50278
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-11-10,All,85158,20103
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-11-10,All,103989,22708
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-11-10,All,536797,123900
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-11-10,All,221748,41499
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-11-10,All,1492919,98217
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-11-10,All,243726,63496
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-11-10,All,378594,47865
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-11-10,All,339897,57602
-422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-11-10,All,28895,
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2021-11-10,All,3434677,50321
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2021-11-10,All,85387,20157
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2021-11-10,All,104116,22736
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2021-11-10,All,537141,123979
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2021-11-10,All,222048,41555
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2021-11-10,All,1493877,98280
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2021-11-10,All,243933,63550
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2021-11-10,All,379001,47917
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2021-11-10,All,340272,57665
+422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2021-11-10,All,28902,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2021-11-10,All,559450,26115
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2021-11-10,All,438563,8671
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2021-11-10,All,2070595,30134
@@ -486,24 +486,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2021-11-10,All,5316775,74542
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2021-11-10,All,36650213,111156
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,2021-11-10,All,65764376,60014
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-11-10,All,39528986,104445
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2021-11-10,All,39622998,104693
 61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",2021-11-10,All,4,
-61601,PL,POL,616,,,dolnoslaskie,Poland,51.13399999999999,16.8842,"dolnoslaskie, Poland",2021-11-10,All,3167955,109193
-61602,PL,POL,616,,,kujawsko-pomorskie,Poland,53.1648,18.4834,"kujawsko-pomorskie, Poland",2021-11-10,All,2128426,102437
-61605,PL,POL,616,,,lodzkie,Poland,51.4635,19.1727,"lodzkie, Poland",2021-11-10,All,2593980,105176
-61603,PL,POL,616,,,lubelskie,Poland,51.2494,23.1011,"lubelskie, Poland",2021-11-10,All,1849343,87331
-61604,PL,POL,616,,,lubuskie,Poland,52.2275,15.2559,"lubuskie, Poland",2021-11-10,All,1091005,107536
-61606,PL,POL,616,,,malopolskie,Poland,49.7225,20.2503,"malopolskie, Poland",2021-11-10,All,3340492,98233
-61607,PL,POL,616,,,mazowieckie,Poland,51.8927,21.0022,"mazowieckie, Poland",2021-11-10,All,6209771,114923
-61608,PL,POL,616,,,opolskie,Poland,50.8004,17.938,"opolskie, Poland",2021-11-10,All,925194,93784
-61609,PL,POL,616,,,podkarpackie,Poland,50.0575,22.0896,"podkarpackie, Poland",2021-11-10,All,1696996,79708
-61610,PL,POL,616,,,podlaskie,Poland,53.0697,22.9675,"podlaskie, Poland",2021-11-10,All,1136050,96150
-61611,PL,POL,616,,,pomorskie,Poland,54.2944,18.1531,"pomorskie, Poland",2021-11-10,All,2608070,111765
-61612,PL,POL,616,,,slaskie,Poland,50.5717,19.322,"slaskie, Poland",2021-11-10,All,4680071,103231
-61613,PL,POL,616,,,swietokrzyskie,Poland,50.6261,20.9406,"swietokrzyskie, Poland",2021-11-10,All,1135738,91477
-61614,PL,POL,616,,,warminsko-mazurskie,Poland,53.8671,20.7028,"warminsko-mazurskie, Poland",2021-11-10,All,1363696,95431
-61615,PL,POL,616,,,wielkopolskie,Poland,52.28,17.3523,"wielkopolskie, Poland",2021-11-10,All,3770959,107927
-61616,PL,POL,616,,,zachodniopomorskie,Poland,53.4658,15.1823,"zachodniopomorskie, Poland",2021-11-10,All,1831236,107654
+61601,PL,POL,616,,,dolnoslaskie,Poland,51.13399999999999,16.8842,"dolnoslaskie, Poland",2021-11-10,All,3175307,109447
+61602,PL,POL,616,,,kujawsko-pomorskie,Poland,53.1648,18.4834,"kujawsko-pomorskie, Poland",2021-11-10,All,2133317,102673
+61605,PL,POL,616,,,lodzkie,Poland,51.4635,19.1727,"lodzkie, Poland",2021-11-10,All,2599905,105416
+61603,PL,POL,616,,,lubelskie,Poland,51.2494,23.1011,"lubelskie, Poland",2021-11-10,All,1855853,87638
+61604,PL,POL,616,,,lubuskie,Poland,52.2275,15.2559,"lubuskie, Poland",2021-11-10,All,1094182,107849
+61606,PL,POL,616,,,malopolskie,Poland,49.7225,20.2503,"malopolskie, Poland",2021-11-10,All,3346999,98424
+61607,PL,POL,616,,,mazowieckie,Poland,51.8927,21.0022,"mazowieckie, Poland",2021-11-10,All,6225696,115217
+61608,PL,POL,616,,,opolskie,Poland,50.8004,17.938,"opolskie, Poland",2021-11-10,All,927649,94033
+61609,PL,POL,616,,,podkarpackie,Poland,50.0575,22.0896,"podkarpackie, Poland",2021-11-10,All,1701301,79910
+61610,PL,POL,616,,,podlaskie,Poland,53.0697,22.9675,"podlaskie, Poland",2021-11-10,All,1139368,96431
+61611,PL,POL,616,,,pomorskie,Poland,54.2944,18.1531,"pomorskie, Poland",2021-11-10,All,2614137,112025
+61612,PL,POL,616,,,slaskie,Poland,50.5717,19.322,"slaskie, Poland",2021-11-10,All,4690187,103454
+61613,PL,POL,616,,,swietokrzyskie,Poland,50.6261,20.9406,"swietokrzyskie, Poland",2021-11-10,All,1138140,91671
+61614,PL,POL,616,,,warminsko-mazurskie,Poland,53.8671,20.7028,"warminsko-mazurskie, Poland",2021-11-10,All,1366845,95651
+61615,PL,POL,616,,,wielkopolskie,Poland,52.28,17.3523,"wielkopolskie, Poland",2021-11-10,All,3778748,108150
+61616,PL,POL,616,,,zachodniopomorskie,Poland,53.4658,15.1823,"zachodniopomorskie, Poland",2021-11-10,All,1835360,107896
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2021-11-10,All,16246592,159331
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2021-11-10,All,4863433,168807
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2021-11-10,All,13360246,69448
@@ -516,7 +516,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2021-11-10,All,217717,111006
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-11-10,All,48438,142724
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-11-10,All,108838,49661
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-11-10,All,46503149,133576
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-11-10,All,46506420,133585
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-11-10,All,1961144,11712
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-11-10,All,7329816,83890
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-11-10,All,170530,173408
