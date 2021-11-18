@@ -424,6 +424,7 @@ Date: Location | File | Change | Data source for change
 * March 24, 2021: Indiana, US | The deaths back distributed on February 9 have been distributed to their respective counties and removed from the unassigned category. Our appreciation to the Indiana Department of Health for their help with this issue.
 * April 2, 2021: Alaska, US | In response to the state's separation of Valdez-Cordova, AK into Copper River, AK and Chugach, AK, we have recreated the time series including these two locations using the official data from the Alaska dashboard | [Source](https://alaska-coronavirus-vaccine-outreach-alaska-dhss.hub.arcgis.com/app/6a5932d709ef4ab1b868188a4c757b4f)
 * June 2, 2021: Pennsylvania, US | Deaths for Chester county, PA were determined to be greater at the state level of reporting than the direct reporting from Chester county. The data has been redistributed based on the state level histroical deaths and moving forward Chester county data will be collected from the maximum value between the state and county source. | [State Source](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx) | [County Source](https://chesco.maps.arcgis.com/apps/opsdashboard/index.html#/975082d579454c3ca7877db0a44e61ca
+* November 18, 2021: Slovakia | Reporting in Slovakia has been modified to include probable cases. A back-distribution of probable cases from official sources has been issued| | [Slovakia Dashboard](https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/)
 
 
 ## Irregular Update Schedules
