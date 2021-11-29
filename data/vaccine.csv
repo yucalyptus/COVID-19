@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2021-11-29,All,276586,192090
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2021-11-29,All,2292220,147745
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2021-11-29,All,1110891,37489
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-11-29,All,39073842,153473
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2021-11-29,All,955170,223118
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2021-11-29,All,12919501,159146
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2021-11-29,All,378398,154070
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2021-11-29,All,7154657,139862
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2021-11-29,All,2558537,145661
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2021-11-29,All,840428,156942
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2021-11-29,All,39106606,153601
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2021-11-29,All,955850,223277
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2021-11-29,All,12921201,159167
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2021-11-29,All,378744,154211
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2021-11-29,All,7168341,140129
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2021-11-29,All,2563363,145935
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2021-11-29,All,842144,157263
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2021-11-29,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2021-11-29,All,10661115,160803
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2021-11-29,All,3606036,137080
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2021-11-29,All,10664601,160856
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2021-11-29,All,3612362,137320
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2021-11-29,All,13670540,151786
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2021-11-29,All,10460120,103165
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2021-11-29,All,274502,69803
@@ -135,22 +135,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2021-11-29,All,4094675,99741
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000002,Cuba,2021-11-29,All,27961410,246864
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2021-11-29,All,1298388,107539
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2021-11-29,All,13358175,124738
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2021-11-29,All,802416,125877
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2021-11-29,All,1493215,127648
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2021-11-29,All,351222,119743
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2021-11-29,All,692416,124606
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2021-11-29,All,528296,120269
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2021-11-29,All,1359889,110020
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2021-11-29,All,700271,109426
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2021-11-29,All,597266,118203
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2021-11-29,All,728903,123325
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2021-11-29,All,2489174,195583
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2021-11-29,All,1394768,109425
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2021-11-29,All,13372609,124872
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2021-11-29,All,803664,126072
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2021-11-29,All,1494381,127748
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2021-11-29,All,351463,119826
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2021-11-29,All,693661,124830
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2021-11-29,All,528977,120424
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2021-11-29,All,1360913,110103
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2021-11-29,All,701298,109587
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2021-11-29,All,597946,118338
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2021-11-29,All,729648,123451
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2021-11-29,All,2493116,195893
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2021-11-29,All,1395719,109499
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2021-11-29,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-11-29,All,943039,113568
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2021-11-29,All,604512,117901
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-11-29,All,672788,113943
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2021-11-29,All,944219,113710
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2021-11-29,All,604621,117922
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2021-11-29,All,672983,113976
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2021-11-29,All,9681985,167155
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2021-11-29,All,78347,160333
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2021-11-29,All,77655,136783
@@ -555,7 +555,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-11-29,All,1283952,91744
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-11-29,All,11393466,96402
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-11-29,All,120114498,142418
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-11-29,All,454480650,137944
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-11-29,All,454480691,137944
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-11-29,All,5191035,105870
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-11-29,All,946031,129319
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2021-11-29,All,67553,121408
@@ -593,7 +593,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-11-29,All,29626252,152292
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-11-29,All,13378128,127555
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2021-11-29,All,888064,116534
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-11-29,All,83916,152176
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-11-29,All,83957,152250
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2021-11-29,All,14192281,121414
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2021-11-29,All,4822388,121870
 84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",2021-11-29,All,6122487,145160
