@@ -250,7 +250,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2021-11-29,All,2307573,145473
 35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2021-11-29,All,80128598,125451
 35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2021-11-29,All,28485741,100996
-35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2021-11-29,All,10896740,146226
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2021-11-29,All,10919142,146527
 35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2021-11-29,All,16544923,121597
 35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2021-11-29,All,24164196,62611
 35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2021-11-29,All,73395327,108632
@@ -314,7 +314,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 364,IR,IRN,364,,,,Iran,32.427908,53.68804599999999,Iran,2021-11-29,All,102145229,121611
 368,IQ,IRQ,368,,,,Iraq,33.223191,43.679291,Iraq,2021-11-29,All,11715365,29126
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2021-11-29,All,8067138,163375
-376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2021-11-29,All,16151633,186604
+376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2021-11-29,All,16165200,186761
 380,IT,ITA,380,,,,Italy,41.87194,12.56738,Italy,2021-11-29,All,95571957,158069
 38013,IT,ITA,380,,,Abruzzo,Italy,42.35122196,13.39843823,"Abruzzo, Italy",2021-11-29,All,2086580,159089
 38017,IT,ITA,380,,,Basilicata,Italy,40.63947052,15.80514834,"Basilicata, Italy",2021-11-29,All,888243,157806
@@ -358,7 +358,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 39815,KZ,KAZ,398,,,Shymkent,Kazakhstan,42.3417,69.5901,"Shymkent, Kazakhstan",2021-11-29,All,1116773,93064
 39816,KZ,KAZ,398,,,Turkistan,Kazakhstan,42.2663,68.1431,"Turkistan, Kazakhstan",2021-11-29,All,1994675,74289
 39817,KZ,KAZ,398,,,West Kazakhstan,Kazakhstan,49.568000000000005,50.8067,"West Kazakhstan, Kazakhstan",2021-11-29,All,479084,72937
-404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-11-29,All,6939559,12905
+404,KE,KEN,404,,,,Kenya,-0.0236,37.9062,Kenya,2021-11-29,All,6959988,12943
 296,KI,KIR,296,,,,Kiribati,-3.3704,-168.734,Kiribati,2021-11-29,All,82167,69866
 410,KR,KOR,410,,,,"Korea, South",35.90775700000001,127.766922,"Korea, South",2021-11-29,All,84591947,164995
 383,XK,XKS,383,,,,Kosovo,42.602636,20.902977,Kosovo,2021-11-29,All,1609325,88895
@@ -380,18 +380,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2021-11-29,All,589628,11658
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2021-11-29,All,2291638,33350
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2021-11-29,All,50469,132336
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-11-29,All,3670008,134813
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2021-11-29,All,3672116,134890
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2021-11-29,All,175773,
 44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2021-11-29,All,806911,
-44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2021-11-29,All,359849,
+44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2021-11-29,All,359855,
 44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2021-11-29,All,160139,
 44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2021-11-29,All,276659,
-44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2021-11-29,All,321192,
-44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2021-11-29,All,102523,
-44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2021-11-29,All,136420,
+44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2021-11-29,All,321198,
+44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2021-11-29,All,102541,
+44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2021-11-29,All,136435,
 44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2021-11-29,All,1,
 44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2021-11-29,All,163814,
-44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2021-11-29,All,1166727,
+44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2021-11-29,All,1168790,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2021-11-29,All,895374,143036
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2021-11-29,All,625884,2260
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2021-11-29,All,1390496,7268
@@ -555,7 +555,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-11-29,All,1283952,91744
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-11-29,All,11393466,96402
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-11-29,All,120114498,142418
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-11-29,All,454480872,137944
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-11-29,All,454480890,137944
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-11-29,All,5191035,105870
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-11-29,All,946031,129319
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2021-11-29,All,67553,121408
@@ -593,7 +593,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-11-29,All,29626252,152292
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-11-29,All,13378128,127555
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2021-11-29,All,888064,116534
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-11-29,All,84138,152578
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-11-29,All,84156,152611
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2021-11-29,All,14192281,121414
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2021-11-29,All,4822388,121870
 84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",2021-11-29,All,6122487,145160
