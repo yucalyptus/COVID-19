@@ -32180,3 +32180,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/26/2021,time_series_covid19_deaths_US.csv,"Honolulu, Hawaii, US",11/25/2021,747,755,"Correct Honolulu, Hawaii, US deaths data"
 11/26/2021,time_series_covid19_confirmed_global.csv,US,11/25/2021,48126382,48126574,Correct US confirmed data
 11/26/2021,time_series_covid19_deaths_global.csv,US,11/25/2021,775785,775797,Correct US deaths data
+11/29/2021,time_series_covid19_confirmed_global.csv,South Africa,11/26/2021,2952500,2955328,Correct South Africa confirmed data
+11/29/2021,time_series_covid19_deaths_global.csv,South Africa,11/26/2021,89771,89783,Correct South Africa deaths data
