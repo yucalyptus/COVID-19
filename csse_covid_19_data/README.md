@@ -439,7 +439,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 
 United States
 * Alabama: Providing data seven days a week (as of 9/17/2021). ~~Providing data Monday-Friday.~~ ~~Providing data Monday, Wednesday, and Friday~~
-* Alaska: Providing data Monday-Friday (as of 8/2/2021). ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
+* Alaska: Providing data Monday, Wednesday, and Friday (as of 12/07/2021). ~~Providing data Monday-Friday (as of 8/2/2021).~~ ~~Providing data Monday, Wednesday, and Friday, excluding holidays.~~
 * Arkansas: Providing data Monday-Friday. Resuming weekend reporting July 24, 2021.
 * California: Providing data Monday-Friday.
 * Colorado: Providing data Monday-Friday.
