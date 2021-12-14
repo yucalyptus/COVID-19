@@ -32617,3 +32617,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/09/2021,time_series_covid19_deaths_global.csv,US,12/06/2021,789905,789907,Correct US deaths data
 12/09/2021,time_series_covid19_deaths_global.csv,US,12/07/2021,791514,791516,Correct US deaths data
 12/09/2021,time_series_covid19_deaths_global.csv,US,12/08/2021,793228,793230,Correct US deaths data
+12/14/2021,time_series_covid19_confirmed_global.csv,Chile,12/11/2021,1778370,1781227,Correct Chile confirmed data
+12/14/2021,time_series_covid19_confirmed_global.csv,Chile,12/12/2021,1778370,1782804,Correct Chile confirmed data
+12/14/2021,time_series_covid19_deaths_global.csv,Chile,12/11/2021,38600,38646,Correct Chile deaths data
+12/14/2021,time_series_covid19_deaths_global.csv,Chile,12/12/2021,38600,38686,Correct Chile deaths data
