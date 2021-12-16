@@ -235,7 +235,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 332,HT,HTI,332,,,,Haiti,18.9712,-72.2852,Haiti,2021-12-16,All,184769,1620
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2021-12-16,All,9030824,91178
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2021-12-16,All,14655778,151710
-352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-12-16,All,699204,204894
+352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2021-12-16,All,704015,206304
 356,IN,IND,356,,,,India,20.593684,78.96288,India,2021-12-16,All,1359863877,98540
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2021-12-16,All,582507,139677
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2021-12-16,All,65504377,121521
@@ -244,14 +244,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2021-12-16,All,91820612,73574
 35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000002,"Chandigarh, India",2021-12-16,All,1643694,141884
 35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2021-12-16,All,28411917,96520
-35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2021-12-16,All,1174270,190713
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2021-12-16,All,1174275,190714
 35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2021-12-16,All,24614093,131549
 35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2021-12-16,All,2369741,149392
 35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2021-12-16,All,86502936,135430
 35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2021-12-16,All,30851274,109383
 35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2021-12-16,All,11304787,151702
 35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2021-12-16,All,17457686,128305
-35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2021-12-16,All,27051788,70093
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2021-12-16,All,27064996,70127
 35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2021-12-16,All,81831612,121119
 35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2021-12-16,All,45404682,127185
 35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2021-12-16,All,387558,141295
@@ -270,10 +270,10 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2021-12-16,All,77742725,99873
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2021-12-16,All,42622300,108280
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2021-12-16,All,4657078,111686
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-12-16,All,4199642,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2021-12-16,All,4179128,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2021-12-16,All,182888115,76881
-35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2021-12-16,All,13495623,119951
-35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-12-16,All,98868274,99256
+35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2021-12-16,All,13496614,119960
+35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2021-12-16,All,98874584,99262
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2021-12-16,All,255175864,93292
 360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2021-12-16,All,2819444,53450
 360002,ID,IDN,360,,,Bali,Indonesia,-8.3405,115.09200000000001,"Bali, Indonesia",2021-12-16,All,6587563,152581
@@ -486,7 +486,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2021-12-16,All,262895,134041
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-12-16,All,55711,164155
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-12-16,All,134615,61422
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-16,All,48259422,138621
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-16,All,48262583,138630
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-12-16,All,2269383,13553
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-12-16,All,8099998,92705
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-12-16,All,182903,185990
@@ -676,7 +676,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2021-12-16,All,10600388,194029
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2021-12-16,All,56343,145521
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2021-12-16,All,5939285,189233
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-12-16,All,6879674,198048
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2021-12-16,All,6880434,198070
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2021-12-16,All,36534484,109158
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2021-12-16,All,147609,50433
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2021-12-16,All,26314390,92539
