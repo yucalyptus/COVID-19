@@ -73,14 +73,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2021-12-16,All,550192,98957
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-12-16,All,29574392,176891
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2021-12-16,All,972360,3662
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-12-16,All,63933260,168886
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-12-16,All,63984254,169021
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-12-16,All,7194947,163034
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-12-16,All,9001045,176114
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-12-16,All,9032599,176731
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-12-16,All,2283775,165789
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-12-16,All,1356386,173897
-12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-12-16,All,917947,176066
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-12-16,All,1362197,174642
+12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-12-16,All,922405,176921
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-12-16,All,90279,201048
-12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2021-12-16,All,1688836,172778
+12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2021-12-16,All,1698007,173716
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-12-16,All,54397,140270
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-12-16,All,24711702,167971
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-12-16,All,284064,179607
@@ -486,7 +486,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2021-12-16,All,262895,134041
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-12-16,All,55318,162997
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-12-16,All,134615,61422
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-16,All,48234636,138550
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-16,All,48237340,138557
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-12-16,All,1928411,11517
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-12-16,All,8099998,92705
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-12-16,All,182903,185990
@@ -575,7 +575,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2021-12-16,All,1355953,96889
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2021-12-16,All,12096838,102354
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2021-12-16,All,122037127,144698
-840,US,USA,840,,,,US,40.0,-100.0,US,2021-12-16,All,485994307,147509
+840,US,USA,840,,,,US,40.0,-100.0,US,2021-12-16,All,485994330,147509
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2021-12-16,All,5460176,111359
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2021-12-16,All,998574,136502
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2021-12-16,All,73265,131674
@@ -613,7 +613,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2021-12-16,All,32551013,167326
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2021-12-16,All,14263904,136001
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2021-12-16,All,982970,128988
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-12-16,All,92446,167644
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2021-12-16,All,92469,167686
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2021-12-16,All,15260191,130550
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2021-12-16,All,5119102,129369
 84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",2021-12-16,All,6561512,155569
