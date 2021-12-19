@@ -73,11 +73,11 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2021-12-19,All,557243,100225
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-12-19,All,29803062,178258
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2021-12-19,All,986281,3715
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-12-19,All,64974824,171638
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-12-19,All,64980004,171651
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-12-19,All,7251484,164315
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-12-19,All,9101805,178085
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-12-19,All,2312458,167871
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-12-19,All,1385907,177681
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2021-12-19,All,1391087,178346
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2021-12-19,All,922405,176921
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-12-19,All,90279,201048
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2021-12-19,All,1718187,175781
@@ -158,7 +158,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2021-12-19,All,135032,13667
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2021-12-19,All,56576,78587
 214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2021-12-19,All,14001048,129066
-218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-12-19,All,26478800,150080
+218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2021-12-19,All,26588158,150700
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2021-12-19,All,47838944,46747
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2021-12-19,All,9466222,145944
 226,GQ,GNQ,226,,,,Equatorial Guinea,1.6508,10.2679,Equatorial Guinea,2021-12-19,All,452572,32257
@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2021-12-19,All,3268400,152504
 27617,DE,DEU,276,,,Unknown,Germany,,,"Unknown, Germany",2021-12-19,All,0,0
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2021-12-19,All,4216970,13571
-300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-12-19,All,16202919,155452
+300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2021-12-19,All,16301550,156398
 308,GD,GRD,308,,,,Grenada,12.1165,-61.679,Grenada,2021-12-19,All,75893,67449
 320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2021-12-19,All,10891049,60790
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2021-12-19,All,2620812,19956
@@ -486,7 +486,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2021-12-19,All,262895,134041
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-12-19,All,56355,166052
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-12-19,All,137612,62790
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-19,All,48372607,138946
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-19,All,48375316,138954
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-12-19,All,2269383,13553
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-12-19,All,8099998,92705
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-12-19,All,182903,185990
