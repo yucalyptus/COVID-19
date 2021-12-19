@@ -73,7 +73,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2021-12-19,All,557243,100225
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2021-12-19,All,29803062,178258
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2021-12-19,All,986281,3715
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-12-19,All,64831932,171260
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2021-12-19,All,64974824,171638
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2021-12-19,All,7251484,164315
 12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2021-12-19,All,9101805,178085
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2021-12-19,All,2312458,167871
@@ -82,14 +82,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2021-12-19,All,90279,201048
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2021-12-19,All,1718187,175781
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2021-12-19,All,54397,140270
-12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-12-19,All,25174953,171120
+12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2021-12-19,All,25315780,172077
 12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2021-12-19,All,286492,181142
 12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2021-12-19,All,14502696,169867
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-12-19,All,1951220,165124
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2021-12-19,All,1953285,165299
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2021-12-19,All,79649,193896
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2021-12-19,All,790782,16373
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2021-12-19,All,366585,2231
-152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-12-19,All,42910566,224472
+152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2021-12-19,All,42962892,224745
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2021-12-19,All,2673688000,190341
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2021-12-19,All,9751659,130074
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2021-12-19,All,956156,147249
@@ -486,7 +486,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2021-12-19,All,262895,134041
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2021-12-19,All,56355,166052
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2021-12-19,All,137612,62790
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-19,All,48365777,138926
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2021-12-19,All,48369167,138936
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2021-12-19,All,2269383,13553
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2021-12-19,All,8099998,92705
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2021-12-19,All,182903,185990
